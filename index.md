@@ -3,6 +3,8 @@ layout: post
 title: Hello
 ---
 
+![under construction](https://underconstruction.gif "Under Construction")
+
 # Vis 4 Social Good
 
 We propose a tutorial based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. The skills required to make these sorts of impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis. This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
