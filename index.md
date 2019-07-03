@@ -1,13 +1,14 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
 
 # Vis 4 Social Good
 
-We propose a tutorial based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. The skills required to make these sorts of impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis. This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
+We propose a tutorial based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. 
+
+The skills required to make these sorts of impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis. 
+
+This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
 
 - 14:00-14:15 Introduction and Welcome
 - 14:15-14:45 Lecture: The Social Impact of Visualization
