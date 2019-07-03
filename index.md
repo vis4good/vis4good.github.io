@@ -1,24 +1,29 @@
 ---
+title: home
 layout: page
 ---
 
-# Vis 4 Social Good
+# TODO Teaser
 
-We propose a tutorial based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. 
+Date/time: TBA<br>
+Disclaimer: must be registered for VIS 2019
+
+The VIS 4 Social Good tutorial is based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. 
 
 The skills required to make these sorts of impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis. 
 
 This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
 
-- 14:00-14:15 Introduction and Welcome
-- 14:15-14:45 Lecture: The Social Impact of Visualization
-- 14:45-15:00 Hackathon Group Formation \& Networking
-- 15:00-15:10 Lightning Talks I: Data Collection \& Structuring
-- 15:10-15:40 Work Period I
-- 15:40-16:15 Break
-- 16:15-16:25 Lighting Talks II: Accessibility \& Advocacy
-- 16:15-17:20 Work Period II
-- 17:20-17:30 Lightning Talks III: Evaluation \& Critical Data Science
-- 17:30-17:50 Hackathon Presentations
-- 17:50-18:00 Wrap Up
+### TODO Organizers
 
+### Code of Conduct
+IEEE VIS is committed to providing an inclusive and harassment-free environment in all interactions regardless of gender, sexual orientation, disability, physical appearance, race, or religion. This commitment extends to all IEEE VIS sponsored events and services (webinars, committee meetings, networking functions, online forums, chat rooms, and social media) and any interaction regardless of affiliation or position. As a community that aims to share ideas and freedom of thought and expression, it is essential that the interaction between attendees take place in an environment that recognizes the inherent worth of every person by being respectful of all. IEEE VIS does not tolerate harassment in any form. Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Harassment includes, but is not limited to, the use of abusive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
+
+Anyone who experiences, observes, or has knowledge of threatening behavior is encouraged to immediately report the incident to ombuds@ieeevis.org. All information shared will be kept confidential. In cases where a public response is deemed necessary, the identities of victims and reporters will remain confidential unless those individuals consent otherwise.
+
+IEEE VIS reserves the right to take appropriate action to foster an inclusive and respectful environment. Attendees violating these rules may be asked to leave the conference without a refund, at the sole discretion of the conference organizers. In addition, attendees are subject to the [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html).
+
+#### Contact
+Please contact ombuds@ieeevis.org if you experience, observe, or have knowledge of behavior in violation of the Code of Conduct.
+
+Please contact inclusivity@ieeevis.org with any questions about the Code of Conduct and Inclusivity & Diversity at IEEE VIS.
