@@ -14,7 +14,87 @@ The skills required to make these sorts of impacts are often excluded from stand
 
 This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
 
-### TODO Organizers
+### Organizers
+
+<style>
+#bios {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-bottom: 10px;
+}
+
+.bio_image {
+  width: 100pt;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+.bio_text {
+  display: none;
+}
+
+.bio_name, .bio_affiliation {
+  text-align: center;
+  width: 200pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+
+<div id="bios">
+
+<div class="grid-item">
+  <img class="bio_image" src="img/battle.jpg" />
+  <div class="bio_name">Leilani Battle</div>
+  <div class="bio_affiliation">University of Maryland</div>
+  <div class="bio_text">
+  Leilani Battle is an Assistant Professor at the University of Maryland, College Park, with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS). She is also affiliated with the UMD Human-Computer Interaction Laboratory (HCIL). Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+  </div>
+</div>
+
+<div class="grid-item">
+  <img class="bio_image" src="img/borkin.jpg" />
+  <div class="bio_name">Michelle Borkin</div>
+  <div class="bio_affiliation">Northeastern University</div>
+  <div class="bio_text">
+    Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
+  </div>
+</div>
+
+<div class="grid-item">
+  <img class="bio_image" src="img/correll.png" />
+  <div class="bio_name">Michael Correll</div>
+  <div class="bio_affiliation">Tableau Research</div>
+  <div class="bio_text">
+    Michael Correll is a research scientist at Tableau Software. His research focuses on the presentation of statistical information to audiences without statistical backgrounds. As part of this work he also focuses on the ethical implications of visualization work, and blogs about using data visualization for advocacy and social good. He also focuses on techniques for visualizing uncertainty and communicating uncertain data to wider audiences.
+  </div>
+</div>
+
+<div class="grid-item">
+  <img class="bio_image" src="img/harrison.jpg" />
+  <div class="bio_name">Lane Harrison</div>
+  <div class="bio_affiliation">Worcester Polytechnic Institute</div>
+  <div class="bio_text">
+    Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
+  </div>
+</div>
+
+<div class="grid-item">
+  <img class="bio_image" src="img/peck.jpg" />
+  <div class="bio_name">Evan Peck</div>
+  <div class="bio_affiliation">Bucknell University</div>
+  <div class="bio_text">
+    Evan Peck is an Assistant Professor of Computer Science at Bucknell University.  He has been broadly active in integrating ethical design into introductory CS courses, including running a workshop at SIGCSE 2019, curating and writing about ethical CS modules, and serving as a judge in \textit{The Responsible CS Challenge}. His recent research acts as an extension of these interests - focusing on the communication of data to underrepresented populations in rural Pennsylvania.
+  </div>
+</div>
+
+</div>
 
 ### Code of Conduct
 IEEE VIS is committed to providing an inclusive and harassment-free environment in all interactions regardless of gender, sexual orientation, disability, physical appearance, race, or religion. This commitment extends to all IEEE VIS sponsored events and services (webinars, committee meetings, networking functions, online forums, chat rooms, and social media) and any interaction regardless of affiliation or position. As a community that aims to share ideas and freedom of thought and expression, it is essential that the interaction between attendees take place in an environment that recognizes the inherent worth of every person by being respectful of all. IEEE VIS does not tolerate harassment in any form. Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Harassment includes, but is not limited to, the use of abusive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
