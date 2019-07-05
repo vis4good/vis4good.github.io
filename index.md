@@ -19,7 +19,7 @@ This tutorial is centered around a hackathon event in which attendees will work 
 <style>
 #bios {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   grid-gap: 10px;
   margin-bottom: 10px;
 }
@@ -39,7 +39,6 @@ This tutorial is centered around a hackathon event in which attendees will work 
 
 .bio_name, .bio_affiliation {
   text-align: center;
-  width: 200pt;
   display: block;
   margin-left: auto;
   margin-right: auto;
