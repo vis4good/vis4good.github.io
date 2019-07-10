@@ -66,7 +66,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 </div>
 </a>
 
-<a href="https://www.cs.umd.edu/~leilani">
+<a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
 <div class="grid-item">
   <img class="bio_image" src="img/borkin.jpg" />
   <div class="bio_name">Michelle Borkin</div>
