@@ -5,9 +5,9 @@ layout: page
 
 # TODO Teaser
 
-**When:** _(TBA) Oct 20 or Oct 21_
-**Where:** Vancouver, BC, Canada
-_Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org)_
+- **When:** _(TBA) Oct 20 or Oct 21_
+- **Where:** Vancouver, BC, Canada
+- _Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org)_
 
 
 ### Why a _Vis for Social Good_ Tutorial?
