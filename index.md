@@ -5,14 +5,18 @@ layout: page
 
 # TODO Teaser
 
-Date/time: TBA<br>
-Disclaimer: must be registered for VIS 2019
+**When:** _(TBA) Oct 20 or Oct 21_
+**Where:** Vancouver, BC, Canada
+_Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org)_
 
-The VIS 4 Social Good tutorial is based around the premise that visualization researchers, teachers, and practitioners can and should use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world. 
 
-The skills required to make these sorts of impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis. 
+### Why a _Vis for Social Good_ Tutorial?
+We believe that visualization researchers, teachers, and practitioners can and _should_ use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world.
 
-This tutorial is centered around a hackathon event in which attendees will work together with their complementary skillsets to produce any one of a number of potential contributions to a social issue: a novel visualization, a novel dataset, or even just a new perspective on an existing problem.
+Unfortunately, the skills required to make these impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis.
+
+### What is the _Vis for Social Good_ Tutorial?
+Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will collaboratively address the visualization challenges of social issues that attendees feel passionately about. Organizers will provide lightning-talks on visualization's social impact, ethics, and evaluation. Together, attendees and organizers will work with their complementary skillsets to contribute to social issue through a novel visualization, a novel dataset, or a new perspective on an existing problem.
 
 ### Organizers
 
