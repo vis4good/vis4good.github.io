@@ -1,5 +1,5 @@
 ---
-title: Vis for Social Good
+title: Visualization for Social Good Tutorial
 layout: page
 ---
 
@@ -55,6 +55,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <div id="bios">
 
+<a href="https://www.cs.umd.edu/~leilani">
 <div class="grid-item">
   <img class="bio_image" src="img/battle.jpg" />
   <div class="bio_name">Leilani Battle</div>
@@ -63,7 +64,9 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
   Leilani Battle is an Assistant Professor at the University of Maryland, College Park, with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS). She is also affiliated with the UMD Human-Computer Interaction Laboratory (HCIL). Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
   </div>
 </div>
+</a>
 
+<a href="https://www.cs.umd.edu/~leilani">
 <div class="grid-item">
   <img class="bio_image" src="img/borkin.jpg" />
   <div class="bio_name">Michelle Borkin</div>
@@ -72,7 +75,9 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
     Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
   </div>
 </div>
+</a>
 
+<a href="http://correll.io/">
 <div class="grid-item">
   <img class="bio_image" src="img/correll.png" />
   <div class="bio_name">Michael Correll</div>
@@ -81,7 +86,9 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
     Michael Correll is a research scientist at Tableau Software. His research focuses on the presentation of statistical information to audiences without statistical backgrounds. As part of this work he also focuses on the ethical implications of visualization work, and blogs about using data visualization for advocacy and social good. He also focuses on techniques for visualizing uncertainty and communicating uncertain data to wider audiences.
   </div>
 </div>
+</a>
 
+<a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
   <img class="bio_image" src="img/harrison.jpg" />
   <div class="bio_name">Lane Harrison</div>
@@ -90,7 +97,9 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
     Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
   </div>
 </div>
+</a>
 
+<a href="https://www.eg.bucknell.edu/~emp017/">
 <div class="grid-item">
   <img class="bio_image" src="img/peck.jpg" />
   <div class="bio_name">Evan Peck</div>
@@ -99,6 +108,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
     Evan Peck is an Assistant Professor of Computer Science at Bucknell University.  He has been broadly active in integrating ethical design into introductory CS courses, including running a workshop at SIGCSE 2019, curating and writing about ethical CS modules, and serving as a judge in \textit{The Responsible CS Challenge}. His recent research acts as an extension of these interests - focusing on the communication of data to underrepresented populations in rural Pennsylvania.
   </div>
 </div>
+</a>
 
 </div>
 
