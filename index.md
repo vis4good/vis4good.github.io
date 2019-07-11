@@ -10,7 +10,9 @@ layout: page
 
 - **When:** Monday, Oct. 21, 14:20-17:40pm
 - **Where:** Vancouver, BC, Canada
-- _Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org)_
+- **Contact Us:** `vis4good-org@googlegroups.com`
+
+_Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org) to attend_
 
 
 ### Why a _Vis for Social Good_ Tutorial?
@@ -20,6 +22,8 @@ Unfortunately, the skills required to make these impacts are often excluded from
 
 ### What is the _Vis for Social Good_ Tutorial?
 Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will collaboratively address the visualization challenges of social issues that attendees feel passionately about. Organizers will provide lightning-talks on visualization's social impact, ethics, and evaluation. Together, attendees and organizers will work with their complementary skillsets to contribute to social issue through a novel visualization, a novel dataset, or a new perspective on an existing problem.
+
+_More details will be released as the tutorial date approaches_
 
 ### Organizers
 
