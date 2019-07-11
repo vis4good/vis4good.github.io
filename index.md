@@ -3,12 +3,12 @@ title: Visualization for Social Good Tutorial
 layout: page
 ---
 
-![The Geography of Human Rights](img/teaser.jpg)
+![Header image: The Geography of Human Rights visualization](img/teaser.jpg)
 <p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.behance.net/gallery/76461997/The-Geography-of-Human-Rights">"The Geography of Human Rights"</a><span> by <span>Federica Fragapane</span></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 4.0</a></p>
 
 
 
-- **When:** _(TBA) Oct 20 or Oct 21_
+- **When:** Monday, Oct. 21, 14:20-17:40pm
 - **Where:** Vancouver, BC, Canada
 - _Disclaimer: must be registered for [IEEE VIS 2019](http://ieeevis.org)_
 
@@ -57,7 +57,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="https://www.cs.umd.edu/~leilani">
 <div class="grid-item">
-  <img class="bio_image" src="img/battle.jpg" />
+  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot"/>
   <div class="bio_name">Leilani Battle</div>
   <div class="bio_affiliation">University of Maryland</div>
   <div class="bio_text">
@@ -68,7 +68,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
 <div class="grid-item">
-  <img class="bio_image" src="img/borkin.jpg" />
+  <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
   <div class="bio_name">Michelle Borkin</div>
   <div class="bio_affiliation">Northeastern University</div>
   <div class="bio_text">
@@ -79,7 +79,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="http://correll.io/">
 <div class="grid-item">
-  <img class="bio_image" src="img/correll.png" />
+  <img class="bio_image" src="img/correll.png" alt="Michael Correll head shot" />
   <div class="bio_name">Michael Correll</div>
   <div class="bio_affiliation">Tableau Research</div>
   <div class="bio_text">
@@ -90,7 +90,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="img/harrison.jpg" />
+  <img class="bio_image" src="img/harrison.jpg" alt="Lane Harrison head shot" />
   <div class="bio_name">Lane Harrison</div>
   <div class="bio_affiliation">Worcester Polytechnic Institute</div>
   <div class="bio_text">
@@ -101,7 +101,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="https://www.eg.bucknell.edu/~emp017/">
 <div class="grid-item">
-  <img class="bio_image" src="img/peck.jpg" />
+  <img class="bio_image" src="img/peck.jpg" alt="Evan Peck head shot" />
   <div class="bio_name">Evan Peck</div>
   <div class="bio_affiliation">Bucknell University</div>
   <div class="bio_text">
