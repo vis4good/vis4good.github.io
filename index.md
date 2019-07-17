@@ -3,7 +3,7 @@ title: Visualization for Social Good Tutorial
 layout: page
 ---
 
-![Header image: The Geography of Human Rights visualization](img/teaser.jpg)
+![Header image: The Geography of Human Rights visualization](img/teaser2.png)
 <p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.behance.net/gallery/76461997/The-Geography-of-Human-Rights">"The Geography of Human Rights"</a><span> by <span>Federica Fragapane</span></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 4.0</a></p>
 
 
