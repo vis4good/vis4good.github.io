@@ -1,6 +1,6 @@
 ---
-title: Visualization for Social Good Tutorial
 layout: page
+title: home
 ---
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
