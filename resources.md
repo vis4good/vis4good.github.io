@@ -20,6 +20,9 @@ If you have a suggestion, drop us a request at `vis4good-org@googlegroups.com` o
 - [Data Humanism, The Revolution will be Visualized](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)
 - [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets)
 
+# Datasets
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 # Podcasts
 - [PolicyViz 142 - Catherine D'Ignazio and Lauren Klein](https://policyviz.com/podcast/episode-142-catherine-dignazio-and-lauren-klein/)
 - [PolicyViz 136 - W.E.B. Du Bois’s Data Portraits](https://policyviz.com/podcast/episode-136-web-dubois-data-portraits/)
