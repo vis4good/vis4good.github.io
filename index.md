@@ -127,7 +127,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
 
 <a href="https://www.khoury.northeastern.edu/people/uzma-haque-syeda/">
 <div class="grid-item">
-  <img class="bio_image" src="img/syeda.jpg" alt="Uzma Haque Syeda head shot" />
+  <img class="bio_image" src="img/syeda.png" alt="Uzma Haque Syeda head shot" />
   <div class="bio_name">Uzma Haque Syeda</div>
   <div class="bio_affiliation">Northeastern University</div>
   <div class="bio_text">
