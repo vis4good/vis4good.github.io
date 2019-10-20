@@ -131,7 +131,7 @@ Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will colla
   <div class="bio_name">Uzma Haque Syeda</div>
   <div class="bio_affiliation">Northeastern University</div>
   <div class="bio_text">
-    Uzma Haque Syeda is a PhD. student at Northwestern University with a concentration in data visualization.
+    After completing her bachelor’s in Electrical and Electronic Engineering from The University of Dhaka, Bangladesh, Uzma Haque Syeda joined the Khoury College of Computer Sciences at Northeastern University as a PhD student. She is currently in her second year of PhD and works at the Data Visualization Lab under the supervision of Dr. Michelle A. Borkin. Her research interests span from visualization pedagogy and design study methodologies to using data visualization for community service and social good. One of her recent projects (currently under review at CHI2020) involves the use of a novel and expedited design study methodology to create a synergy between visualization pedagogy and social good. 
   </div>
 </div>
 </a>
