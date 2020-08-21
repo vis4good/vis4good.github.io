@@ -109,17 +109,6 @@ TBA
 </div>
 </a>
 
-<a href="https://www.khoury.northeastern.edu/people/uzma-haque-syeda/">
-<div class="grid-item">
-  <img class="bio_image" src="img/syeda.png" alt="Uzma Haque Syeda head shot" />
-  <div class="bio_name">Uzma Haque Syeda</div>
-  <div class="bio_affiliation">Northeastern University</div>
-  <div class="bio_text">
-    After completing her bachelor’s in Electrical and Electronic Engineering from The University of Dhaka, Bangladesh, Uzma Haque Syeda joined the Khoury College of Computer Sciences at Northeastern University as a PhD student. She is currently in her second year of PhD and works at the Data Visualization Lab under the supervision of Dr. Michelle A. Borkin. Her research interests span from visualization pedagogy and design study methodologies to using data visualization for community service and social good. One of her recent projects (currently under review at CHI2020) involves the use of a novel and expedited design study methodology to create a synergy between visualization pedagogy and social good. 
-  </div>
-</div>
-</a>
-
 </div>
 
 ### Code of Conduct
