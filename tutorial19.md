@@ -1,24 +1,37 @@
 ---
 layout: page
-title: home
+title: 2019 Vis4Good Tutorial
 ---
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
 
-** NEW FOR 2020: We will be hosting a virtual panel this year! **
-
-- **When:** TBA
-- **Where:** Virtual VIS 2020
+- **When:** Monday, Oct. 21, 14:20-17:40pm
+- **Where:** Vancouver, BC, Canada
 - **Contact Us:** `vis4good-org@googlegroups.com`
 
-_Disclaimer: must be registered for [IEEE VIS 2020](http://ieeevis.org) to attend_
+### Why a _Vis for Social Good_ Tutorial?
+We believe that visualization researchers, teachers, and practitioners can and _should_ use the explanatory and persuasive power of visualizations to promote social good in their communities and the wider world.
 
-### Why a _Vis for Social Good_ Panel?
-TBA
+Unfortunately, the skills required to make these impacts are often excluded from standard visualization curricula, requiring considerations of presenting data to diverse audiences, working with uncertain data sources, and examining the ethical impacts of data collection and analysis.
+
+### What is the _Vis for Social Good_ Tutorial?
+Hosted by [IEEE VIS 2019](http://ieeevis.org), this half-day tutorial will collaboratively address the visualization challenges of social issues that attendees feel passionately about. Organizers will provide lightning-talks on visualization's social impact, ethics, and evaluation. Together, attendees and organizers will work with their complementary skillsets to contribute to social issue through a novel visualization, a novel dataset, or a new perspective on an existing problem.
 
 ### Schedule
-TBA
+- _2:20 - 2:35_: **Welcome** (Leilani Battle)
+- _2:35 - 2:45_: Get to know each other + brainstorm topics
+- _2:45 - 2:55_: **Lightning Talk: Visualization for Advocacy** (Michael Correll)
+- _2:55 - 3:15_: Activity 1
+- _3:15 - 3:25_: **Lightning Talk: Trust and Platforms - Barriers to Impact** (Evan Peck)
+- _3:25 - 3:50_: Critique Activity 2
+- _Break_
+- _4:10 - 4:25_: Report back (Activity 2)
+- _4:25 - 4:35_: **Lightning Talk: Design Considerations for Social Good** (Lane Harrison)
+- _4:35 - 5:00_: Design Activity 3
+- _5:00 - 5:15_: Report back (Activity 3)
+- _5:15 - 5:25_: **Lightning Talk: Service Learning in Visualization** (Uzma Haque Syeda)
+- _5:25 - 5:35_: Wrap up
 
 ### Organizers
 
