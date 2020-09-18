@@ -12,7 +12,7 @@ title: home
 - **Where:** Virtual VIS 2020
 - **Contact Us:** `vis4good-org@googlegroups.com`
 
-_Disclaimer: must be registered for [IEEE VIS 2020](http://ieeevis.org) to attend_
+_Disclaimer: must be registered for [IEEE VIS 2020](http://ieeevis.org) to attend (free for general attendees!)_
 
 ### Why a _Vis for Social Good_ Panel?
 TBA
