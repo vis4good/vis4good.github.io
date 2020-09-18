@@ -3,10 +3,12 @@ layout: page
 title: home
 ---
 
-![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
-
 
 ** NEW FOR 2020: We will be hosting a virtual panel this year! **
+
+
+![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
+
 
 - **When:** TBA, between 25-30 October 2020
 - **Where:** Virtual VIS 2020
