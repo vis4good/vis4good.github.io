@@ -8,14 +8,19 @@ title: home
 
 ** NEW FOR 2020: We will be hosting a virtual panel this year! **
 
-- **When:** TBA
+- **When:** TBA, between 25-30 October 2020
 - **Where:** Virtual VIS 2020
 - **Contact Us:** `vis4good-org@googlegroups.com`
 
 _Disclaimer: must be registered for [IEEE VIS 2020](http://ieeevis.org) to attend (free for general attendees!)_
 
 ### Why a _Vis for Social Good_ Panel?
-TBA
+
+**What role (if any) should data visualization play in effecting positive change in the world?**
+
+There is a growing ``techlash'' that highlights the potential of data science (and data visualization) as tools for reinforcing structures of inequality and injustice. 
+
+We envision this panel to function as a way of airing these competing viewpoints and providing guidance on how the visualization community should use their power and responsibilities in the world. 
 
 ### Schedule
 TBA
