@@ -2,13 +2,49 @@
 layout: page
 title: home
 ---
+<style>
 
+h3 {
+margin-top: 2em;
+}
 
-** NEW FOR 2020: We will be hosting a virtual panel this year! **
+#new-for-2020-we-will-be-hosting-a-virtual-panel-this-year {
+margin-top: -1em;
+margin-bottom: 1em;
+}
 
+#panelists, #bios {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 10px;
+  margin-bottom: 10px;
+}
+
+.panelist_image, .bio_image {
+  width: 100pt;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+.panelist_text, .bio_text {
+  display: none;
+}
+
+.panelist_name, .panelist_affiliation, .panelist_statement, .bio_name, .bio_affiliation {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+
+### NEW FOR 2020: We will be hosting a virtual panel this year!
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
-
 
 - **When:** TBA, between 25-30 October 2020
 - **Where:** Virtual VIS 2020
@@ -20,44 +56,77 @@ _Disclaimer: must be registered for [IEEE VIS 2020](http://ieeevis.org) to atten
 
 **What role (if any) should data visualization play in effecting positive change in the world?**
 
-There is a growing ``techlash'' that highlights the potential of data science (and data visualization) as tools for reinforcing structures of inequality and injustice. 
+There is a growing "techlash" that highlights the potential of data science (and data visualization) as tools for reinforcing structures of inequality and injustice. 
 
 We envision this panel to function as a way of airing these competing viewpoints and providing guidance on how the visualization community should use their power and responsibilities in the world. 
+
+### Panelists
+
+<div id="panelists">
+
+<div class="grid-item">
+<a href="http://www.kanarinka.com/">
+  <img class="panelist_image" src="img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
+</a>
+  <div class="panelist_name">Catherine D'Ignazio</div>
+  <div class="panelist_affiliation">Massachussets Institute of Technology</div>
+<a href="/panelists/dignazio">
+  <div class="panelist_statement">bio | statement</div>
+</a>
+  <div class="panelist_text">
+  Catherine D’Ignazio is a hacker mama, scholar, and artist/designer who focuses on feminist technology, data literacy and civic engagement. She has run women’s health hackathons, designed global news recommendation systems, created talking and tweeting water quality sculptures, and led walking data visualizations to envision the future of sea level rise. Her 2020 book from MIT Press, Data Feminism, co-authored with Lauren Klein, charts a course for more ethical and empowering data science practices. D’Ignazio is an assistant professor of Urban Science and Planning in the Department of Urban Studies and Planning at MIT where she is the Director of the Data + Feminism Lab.
+  </div>
+</div>
+
+<div class="grid-item">
+<a href="http://sites.nd.edu/ronald-metoyer/">
+  <img class="panelist_image" src="img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
+</a>
+  <div class="panelist_name">Ronald Metoyer</div>
+  <div class="panelist_affiliation">University of Notre Dame</div>
+<a href="/panelists/metoyer">
+  <div class="panelist_statement">bio | statement</div>
+</a>
+  <div class="panelist_text">
+    Ronald Metoyer is an Associate Professor of Computer Science and Engineering at the University of Notre Dame.  He earned his B.S. in Computer Science and Engineering at the University of California, Los Angeles (1994) and his Ph.D. in Computer Science from the Georgia Institute of Technology (2002).  His primary research interest is in human-computer interaction and information visualization, with a focus on multivariate data visualization, decision making, and narrative.  He has published over 60 papers and is the recipient of a 2002 NSF CAREER Award.  He also serves as Associate Dean in the College of Engineering at the University of Notre Dame.
+  </div>
+</div>
+
+<div class="grid-item">
+<a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
+  <img class="panelist_image" src="img/borkin.jpg" alt="Michelle Borkin head shot"/>
+</a>
+  <div class="panelist_name">Michelle Borkin</div>
+  <div class="panelist_affiliation">Northeastern University</div>
+<a href="/panelists/borkin">
+  <div class="panelist_statement">bio | statement</div>
+</a>
+  <div class="panelist_text">
+    Michelle Borkin works on the development of novel visualization techniques and tools to enable new insights and discoveries in data. Her research spans visualization and human-computer interaction with interests across disciplines including astronomy and physics, medical imaging, network visualization, perception and cognition, and accessibility.  Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University.  She received her Ph.D. in Applied Physics from Harvard’s School of Engineering and Applied Sciences in 2014, as well as an M.S. in Applied Physics and a B.A. in Astronomy \& Physics from Harvard University. She was previously a National Science Foundation graduate research fellow, a National Defense Science and Engineering graduate fellow, and a TED fellow.  She is also recipient of a CHI 2020 Best Paper Award for the publication ``Design Study `Lite' Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good''.
+  </div>
+</div>
+
+<div class="grid-item">
+<a href="https://www.eg.bucknell.edu/~emp017/">
+  <img class="panelist_image" src="img/peck.jpg" alt="Evan Peck head shot"/>
+</a>
+  <div class="panelist_name">Evan Peck</div>
+  <div class="panelist_affiliation">Bucknell University</div>
+<a href="/panelists/peck">
+  <div class="panelist_statement">bio | statement</div>
+</a>
+  <div class="panelist_text">
+    Evan Peck is an Associate Professor of Computer Science at Bucknell University. Evan's research sits at the intersection of HCI and Visualization, broadly exploring how technology can empower diverse groups of people to understand their world through data. Recently, his visualization work interviewing community members in rural Pennsylvania was the recipient of a 2019 CHI Best Paper Award. Evan also acts as an advocate for ethical approaches in core engineering curriculum. His curricular development pairs issues of bias, fairness, and social impact directly with technical content (\url{https://ethicalcs.github.io/}), and has been adopted by universities across the country. Finally, Evan serves as a member of ACM SIGCHI's Research Ethics Committee. He earned his Ph.D. in 2014 in Computer Science from Tufts University. 
+  </div>
+</div>
+
+</div>
+
 
 ### Schedule
 TBA
 
 ### Organizers
-
-<style>
-#bios {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  grid-gap: 10px;
-  margin-bottom: 10px;
-}
-
-.bio_image {
-  width: 100pt;
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 5px;
-}
-
-.bio_text {
-  display: none;
-}
-
-.bio_name, .bio_affiliation {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-</style>
 
 <div id="bios">
 
