@@ -40,7 +40,7 @@ margin-bottom: 1em;
   <img class="panelist_image" src="/img/borkin.jpg" alt="Michelle Borkin head shot"/>
 </a>
 
-### Statement
+### Statement on #Vis4Good
 
 Data visualizations are ubiquitous in our society and used for essential tasks from communication to decision making.  However the creation and effective use of visualizations is a specialized skill set that requires experience and training to take advantage of it to the most optimal level.  The people and organizations in the world who are on the front lines of making the world a better place including community organizations, non-profit organizations, schools and educational initiatives, and social advocates commonly lack the data analysis and visualization skills necessary to effectively analyze data for impactful strategic planning, decision making, and communication.  Although these organizations and causes could hire experts that have these skills or pay for training for their volunteers, budgets are usually tight or non-existent thus making this option typically unattainable.  
 

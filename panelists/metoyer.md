@@ -40,7 +40,7 @@ margin-bottom: 1em;
   <img class="panelist_image" src="/img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
 </a>
 
-### Statement
+### Statement on #Vis4Good
 
 I see the role of Data Visualization as a powerful communication tool for the socially responsible and engaged data scientist.  It provides a mechanism to potentially engage communities with important, but complex data.  It provides a form of data-driven evidence that can be provided in support of socially relevant narrative discourse.  It can help open up the black box in support of explanations of complex data science models.
 

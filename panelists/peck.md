@@ -40,7 +40,7 @@ margin-bottom: 1em;
   <img class="panelist_image" src="/img/peck.jpg" alt="Evan Peck head shot"/>
 </a>
 
-### Statement
+### Statement on #Vis4Good
 
 For data to have a positive, global impact, I believe that it is  necessary for visualization to wrestle with issues of equality and access - in our data, our designs, and our platforms. While these values are central to many visualization designers, they are not always reflected in our public work. The frame of design and evaluation is not wide enough to capture the sociotechnical topology of visualization's use - the cultural and historical factors that often dictate a public visualization's impact. 
 

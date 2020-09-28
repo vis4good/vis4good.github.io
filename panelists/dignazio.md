@@ -40,7 +40,7 @@ margin-bottom: 1em;
   <img class="panelist_image" src="/img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
 </a>
 
-### Statement
+### Statement on #Vis4Good
 
 Data visualization has a powerful role to play in effecting positive change in the world. In the current moment of triple pandemics – systemic racism, COVID-19, and the economic crisis – we have seen an explosion of data visualization to try to make sense of all of these phenomena. Here I'm thinking of the variations on the "flatten the curve" graphic, the unending proliferation of charts depicting case counts and death counts – more recently broken down by race and ethnicity, and the incredulous New York Times front-page color graphic of the historic
 unemployment numbers. 
