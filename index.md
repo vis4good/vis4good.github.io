@@ -46,7 +46,7 @@ margin-bottom: 1em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** 9-1030am MDT (12-130p EST) Friday, Oct 30 2020
+- **When:** 10-1130am MDT (12-130p EST) Friday, Oct 30 2020
 - **Where:** Virtual VIS 2020
 - **Contact Us:** `vis4good-org@googlegroups.com`
 
@@ -125,7 +125,7 @@ We envision this panel to function as a way of airing these competing viewpoints
 
 ### Schedule
 
-Join us from 9:00am - 10:30am MDT. 
+Join us from 10:00am - 11:30am MDT. 
 
 Register for free at [http://ieeevis.org/year/2020/info/registration/conference-registration](http://ieeevis.org/year/2020/info/registration/conference-registration).
 
