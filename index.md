@@ -129,6 +129,11 @@ Join us from 10:00am - 11:30am MDT.
 
 Register for free at [http://ieeevis.org/year/2020/info/registration/conference-registration](http://ieeevis.org/year/2020/info/registration/conference-registration).
 
+* 10:00-10:05: Introduction by panel organizers
+* 10:05-10:35: Position statements by panelists (5 minutes per panelist)
+* 10:35-11:25: Dialogue and Q&A
+* 11:25-11:30: Wrap-up by panel organizers
+
 ### Organizers
 
 <div id="bios">
