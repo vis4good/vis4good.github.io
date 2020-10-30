@@ -60,6 +60,8 @@ There is a growing "techlash" that highlights the potential of data science (and
 
 We envision this panel to function as a way of airing these competing viewpoints and providing guidance on how the visualization community should use their power and responsibilities in the world. 
 
+Feel free to also check out our reflection on the [2019 Tutorial](https://medium.com/multiple-views-visualization-research-explained/reflections-on-the-visualization-for-social-good-tutorial-71cfab503411).
+
 ### Panelists
 
 <div id="panelists">
