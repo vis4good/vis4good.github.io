@@ -70,7 +70,7 @@ To that end, we are soliciting work that deals with the social impact of visuali
 
 Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings.
 
-Submissions will made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
+Submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
 
 ### Important Dates
 - July 16: Submission Deadline
