@@ -55,7 +55,6 @@ We as designers, researchers, and technologists, have many opportunities ahead o
 
 Visualization, like all fields connected with how we collect, interpret, and communicate data, has an immense potential impact on society, for good or for ill. We should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
 
-
 To that end, we are soliciting work that deals with the social impact of visualization work. Potential contributions might include (but are not limited to):
 
 - Design studies, "collaboration journals," or other best practices for visualization work in domains of social impact. Examples include:
