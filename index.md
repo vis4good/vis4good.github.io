@@ -51,22 +51,24 @@ We are proud to announce the first **Workshop on Visualization for Social Good**
 - ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
 
 ### Call for Papers
-We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inquality, injustice, or other societal ills.
+We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
 
-Visualization, like all fields connected with how we collect, interpret, and communicate data, has an immense potential impact on society, for good or for ill. We should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
+With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social *responsibility.* To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
 
 To that end, we are soliciting work that deals with the social impact of visualization work. Potential contributions might include (but are not limited to):
 
-- Design studies, "collaboration journals," or other best practices for visualization work in domains of social impact. Examples include:
+- Design studies, "collaboration journals," or other best practices for visualization work in domains with high social impact. Examples include:
   - Public health, development, and sustainable growth
   - Inclusivity, accessibility, and disability rights
   - Diversity, racial equality, and gender equality
   - Sustainability, ecology, and environmental activism
-- Explorations of design considerations especially prominent in visualizations for mass audiences or policymakers. Examples include:
+- Explorations of design considerations for visualizations for mass audiences or policymakers. Examples include:
   - Building statistical or visualization literacy and fluency
   - Persuasion, misinformation, and deception
   - Accessibility
 - Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research
+
+Consult our [resources page](resources) for sample works.
 
 Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings.
 
