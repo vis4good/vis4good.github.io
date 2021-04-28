@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Evan Peck | Bucknell University
+exclude: true
 ---
 <style>
 

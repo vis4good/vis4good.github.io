@@ -1,6 +1,7 @@
 ---
 layout: page
 title: home
+exclude: true
 ---
 <style>
 

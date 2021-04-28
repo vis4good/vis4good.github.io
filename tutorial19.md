@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 2019 Vis4Good Tutorial
+permalink: /2019/
+title: Vis4Good Tutorial 2019
+order: 2
 ---
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)

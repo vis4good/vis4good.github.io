@@ -2,6 +2,7 @@
 layout: page
 permalink: /resources/
 title: Resources
+order: 1
 ---
 
 In this page we're assembling things to read, watch, or listen to about how data can be used for social good.

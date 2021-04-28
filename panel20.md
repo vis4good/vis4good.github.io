@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 2020 Vis4Good Panel
+permalink: /panel2020/
+title: Vis4Good Panel 2020
+order: 3
 ---
 <style>
 

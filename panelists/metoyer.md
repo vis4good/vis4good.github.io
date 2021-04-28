@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ronald Metoyer | University of Notre Dame
+exclude: true
 ---
 <style>
 

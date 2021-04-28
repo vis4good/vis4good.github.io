@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Catherine D'Ignazio | Massachussets Institute of Technology
+exclude: true
 ---
 <style>
 
