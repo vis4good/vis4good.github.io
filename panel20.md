@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /panel2020/
-title: Vis4Good Panel 2020
+permalink: /panel2020
+title: Panel 2020
 order: 3
 ---
 <style>
@@ -39,10 +39,10 @@ margin-top: 2em;
 
 </style>
 
-<iframe width="600" height="400" src="http://www.youtube.com/embed/RkNFBxDH6L0" frameborder="0" allowfullscreen></iframe>
-Panel recorded and available [here](https://www.youtube.com/watch?v=RkNFBxDH6L0)
+Panel recorded and available [here](https://www.youtube.com/watch?v=RkNFBxDH6L0) ->
 
-![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](../img/teaser2.png)
+<iframe style="display: block; margin: 0 auto;" width="600" height="400" src="https://www.youtube.com/embed/RkNFBxDH6L0" frameborder="0" allowfullscreen></iframe>
+
 
 - **When:** 10-1130am MDT (12-130p EST) Friday, Oct 30 2020
 - **Where:** Virtual VIS 2020

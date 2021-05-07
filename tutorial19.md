@@ -1,12 +1,9 @@
 ---
 layout: page
-permalink: /2019/
-title: Vis4Good Tutorial 2019
+permalink: /tutorial2019
+title: Tutorial 2019
 order: 2
 ---
-
-![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
-
 
 - **When:** Monday, Oct. 21, 14:20-17:40pm
 - **Where:** Vancouver, BC, Canada
