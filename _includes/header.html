@@ -19,11 +19,9 @@
         </label>
 
         <div class="trigger">
-          {% for my_page in site.pages | sort:"order" %}
-                {% unless my_page.exclude %}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-                {% endunless %}
-          {% endfor %}
+                <a class="page-link" href="/resources">Resources</a>
+                <a class="page-link" href="/panel2020">2020 Panel</a>
+                <a class="page-link" href="/tutorial2019">2019 Tutorial</a>
         </div>
       </nav>
     {% endif %}
