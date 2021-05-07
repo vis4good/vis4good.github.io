@@ -42,7 +42,7 @@ margin-top: 2em;
 <iframe width="600" height="400" src="http://www.youtube.com/embed/RkNFBxDH6L0" frameborder="0" allowfullscreen></iframe>
 Panel recorded and available [here](https://www.youtube.com/watch?v=RkNFBxDH6L0)
 
-![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
+![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](../img/teaser2.png)
 
 - **When:** 10-1130am MDT (12-130p EST) Friday, Oct 30 2020
 - **Where:** Virtual VIS 2020
@@ -66,7 +66,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="http://www.kanarinka.com/">
-  <img class="panelist_image" src="img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
+  <img class="panelist_image" src="../img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
 </a>
   <div class="panelist_name">Catherine D'Ignazio</div>
   <div class="panelist_affiliation">Massachussets Institute of Technology</div>
@@ -80,7 +80,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="http://sites.nd.edu/ronald-metoyer/">
-  <img class="panelist_image" src="img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
+  <img class="panelist_image" src="../img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
 </a>
   <div class="panelist_name">Ronald Metoyer</div>
   <div class="panelist_affiliation">University of Notre Dame</div>
@@ -94,7 +94,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
-  <img class="panelist_image" src="img/borkin.jpg" alt="Michelle Borkin head shot"/>
+  <img class="panelist_image" src="../img/borkin.jpg" alt="Michelle Borkin head shot"/>
 </a>
   <div class="panelist_name">Michelle Borkin</div>
   <div class="panelist_affiliation">Northeastern University</div>
@@ -108,7 +108,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="https://www.eg.bucknell.edu/~emp017/">
-  <img class="panelist_image" src="img/peck.jpg" alt="Evan Peck head shot"/>
+  <img class="panelist_image" src="../img/peck.jpg" alt="Evan Peck head shot"/>
 </a>
   <div class="panelist_name">Evan Peck</div>
   <div class="panelist_affiliation">Bucknell University</div>
@@ -140,7 +140,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="https://www.cs.umd.edu/~leilani">
 <div class="grid-item">
-  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot"/>
+  <img class="bio_image" src="../img/battle.jpg" alt="Leilani Battle head shot"/>
   <div class="bio_name">Leilani Battle</div>
   <div class="bio_affiliation">University of Maryland</div>
   <div class="bio_text">
@@ -151,7 +151,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
 <div class="grid-item">
-  <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
+  <img class="bio_image" src="../img/borkin.jpg" alt="Michelle Borkin head shot" />
   <div class="bio_name">Michelle Borkin</div>
   <div class="bio_affiliation">Northeastern University</div>
   <div class="bio_text">
@@ -162,7 +162,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="http://correll.io/">
 <div class="grid-item">
-  <img class="bio_image" src="img/correll.png" alt="Michael Correll head shot" />
+  <img class="bio_image" src="../img/correll.png" alt="Michael Correll head shot" />
   <div class="bio_name">Michael Correll</div>
   <div class="bio_affiliation">Tableau Research</div>
   <div class="bio_text">
@@ -173,7 +173,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="img/harrison.jpg" alt="Lane Harrison head shot" />
+  <img class="bio_image" src="../img/harrison.jpg" alt="Lane Harrison head shot" />
   <div class="bio_name">Lane Harrison</div>
   <div class="bio_affiliation">Worcester Polytechnic Institute</div>
   <div class="bio_text">
@@ -184,7 +184,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="https://www.eg.bucknell.edu/~emp017/">
 <div class="grid-item">
-  <img class="bio_image" src="img/peck.jpg" alt="Evan Peck head shot" />
+  <img class="bio_image" src="../img/peck.jpg" alt="Evan Peck head shot" />
   <div class="bio_name">Evan Peck</div>
   <div class="bio_affiliation">Bucknell University</div>
   <div class="bio_text">
