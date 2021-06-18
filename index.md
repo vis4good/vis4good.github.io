@@ -78,8 +78,8 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 Submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
 
 ### Important Dates
-- July 16: Submission Deadline
-- August 2: Reviews Due
+- July 23: Submission Deadline
+- August 9: Reviews Due
 - August 27: Camera-Ready Deadline
 - October 24,25, or 26: Workshop Date
 
