@@ -89,7 +89,21 @@ TBD
 
 ### Program Committee
 
-TBD
+- **Lyn Bartram**, SFU
+- **Vetria Byrd**, Purdue
+- **Catherine D'Ignazio**, MIT
+- **Mennatallah El-Assady**, University of Konstanz / Ontario University
+- **Jessica Hullman**, Northwestern
+- **Lauren Klein**, Emory
+- **Crystal Lee**, MIT
+- **Sean McGregor**, Syntiant, Partnership on AI, XPrize Foundation
+- **Ronald Metoyer**, Notre Dame
+- **Ab Mosca**, Tufts
+- **Philippe Rivière**, Visioncarto.net
+- **Arvind Satyanarayan**, MIT
+- **Jon Schwabish**, Urban Institute
+- **Uzma Haque Syeda**, Northeastern
+- **Emily Wall**, Northwestern
 
 ### Organizers
 
