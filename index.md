@@ -111,7 +111,7 @@ TBD
 
 <a href="https://www.cs.umd.edu/~leilani">
 <div class="grid-item">
-  <img class="bio_image" src="img/battle-512.jpg" alt="Leilani Battle head shot"/>
+  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot"/>
   <div class="bio_name">Leilani Battle</div>
   <div class="bio_affiliation">University of Maryland</div>
   <div class="bio_text">
