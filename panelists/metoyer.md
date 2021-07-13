@@ -38,7 +38,7 @@ margin-bottom: 1em;
 </style>
 
 <a href="http://sites.nd.edu/ronald-metoyer/">
-  <img class="panelist_image" src="/img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
+  <img class="panelist_image" src="/img/metoyer.jpg" alt="Ronald Metoyer head shot"/>
 </a>
 
 ### Statement on #Vis4Good
