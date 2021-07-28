@@ -80,6 +80,7 @@ Submissions will be made via [PCS](https://new.precisionconference.com/submissio
 ### Important Dates
 - July 23: Submission Deadline
 - August 9: Reviews Due
+- August 18: Notifications
 - August 27: Camera-Ready Deadline
 - October 24,25, or 26: Workshop Date
 
