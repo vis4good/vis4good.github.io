@@ -41,14 +41,14 @@ margin-top: 2em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** TBD, October 24-25, 2021
+- **When:** October 25, 2021. 8:00am - 11:25am Central Time (USA)
 - **Where:** Virtual VIS 2021
 - **Contact Us:** `vis4good-org@googlegroups.com`
 
 
 ### Welcome
 
-We are proud to announce the first **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2021](ieeevis.org). The goal of this workshop is to:
+We are proud to announce the first **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome). The goal of this workshop is to:
 - ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
 
 Visualization, like all fields connected with how we collect, interpret, and communicate data, has an immense potential impact on society, for good or for ill. It is up to us to make sure our work affects positive change in the world. The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2021 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
