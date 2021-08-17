@@ -92,7 +92,7 @@ Submissions will be made via [PCS](https://new.precisionconference.com/submissio
 - August 27: Camera-Ready Deadline
 - September 24: Lightning Talk Submission Deadline
 - October 1: Lightning Talk Notification
-- October 24,25, or 26: Workshop Date
+- October 25: Workshop Date
 
 ### Keynote Speakers
 
