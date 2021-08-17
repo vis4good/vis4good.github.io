@@ -66,7 +66,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="http://www.kanarinka.com/">
-  <img class="panelist_image" src="../img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
+  <img class="panelist_image" src="../img/dignazio2.jpg" alt="Catherine D'Ignazio head shot"/>
 </a>
   <div class="panelist_name">Catherine D'Ignazio</div>
   <div class="panelist_affiliation">Massachussets Institute of Technology</div>
@@ -80,7 +80,7 @@ Feel free to also check out our reflection on the [2019 Tutorial](https://medium
 
 <div class="grid-item">
 <a href="http://sites.nd.edu/ronald-metoyer/">
-  <img class="panelist_image" src="../img/metoyer.jpeg" alt="Ronald Metoyer head shot"/>
+  <img class="panelist_image" src="../img/metoyer.jpg" alt="Ronald Metoyer head shot"/>
 </a>
   <div class="panelist_name">Ronald Metoyer</div>
   <div class="panelist_affiliation">University of Notre Dame</div>

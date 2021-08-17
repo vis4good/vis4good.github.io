@@ -38,7 +38,7 @@ margin-bottom: 1em;
 </style>
 
 <a href="http://www.kanarinka.com/">
-  <img class="panelist_image" src="/img/dignazio2.png" alt="Catherine D'Ignazio head shot"/>
+  <img class="panelist_image" src="/img/dignazio2.jpg" alt="Catherine D'Ignazio head shot"/>
 </a>
 
 ### Statement on #Vis4Good
