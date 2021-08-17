@@ -88,7 +88,7 @@ Submissions will be made via [PCS](https://new.precisionconference.com/submissio
 ### Important Dates
 - ~~July 23: Paper Submission Deadline~~
 - ~~August 9: Reviews Due~~
-- August 17: Notifications
+- August 18: Notifications
 - August 27: Camera-Ready Deadline
 - September 24: Lightning Talk Submission Deadline
 - October 1: Lightning Talk Notification
