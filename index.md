@@ -43,7 +43,7 @@ margin-top: 2em;
 
 - **When:** TBD, October 24-25, 2021
 - **Where:** Virtual VIS 2021
-- **Contact Us:** `vis4good-org@googlegroups.com`
+- **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
 
 ### Welcome
@@ -52,6 +52,14 @@ We are proud to announce the first **Workshop on Visualization for Social Good**
 - ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
 
 Visualization, like all fields connected with how we collect, interpret, and communicate data, has an immense potential impact on society, for good or for ill. It is up to us to make sure our work affects positive change in the world. The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2021 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
+
+### (New!) Call for Lightning Talks
+
+To include diverse perspectives beyond our accepted research papers on this topic, we are introducing lightning talks: a low-barrier way to present research/design studies (even if they have been presented at other venues!), provocations/critiques, or organizations that contribute to the mission of our workshop.
+
+We expect that each lightning talk will consist of roughly 3 minutes of speaking time during the workshop (time may vary depending on submissions) and a single slide. All talks and presenters will be advertised on the website as well as in our social media promotional material.
+
+Submissions should be made at: [https://bit.ly/vis4good-lightning](https://bit.ly/vis4good-lightning)
 
 ### Call for Papers
 We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
@@ -78,9 +86,12 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 Submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
 
 ### Important Dates
-- July 16: Submission Deadline
-- August 2: Reviews Due
+- ~~July 16: Paper Submission Deadline~~
+- ~~August 2: Reviews Due~~
+- August 17: Paper Submission Notification
 - August 27: Camera-Ready Deadline
+- September 24: Lightning Talk Submission Deadline
+- October 1: Lightning Talk Notification
 - October 24,25, or 26: Workshop Date
 
 ### Keynote Speakers
