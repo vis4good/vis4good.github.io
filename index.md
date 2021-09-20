@@ -78,6 +78,7 @@ Authors: Cathryn A Ploehn, Molly Wright Steenson, Daragh Byrne
 **The importance of engaged communities for social good visualisation**  
 Authors: Neil Richards
 
+
 ### Call for Papers
 We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
 
