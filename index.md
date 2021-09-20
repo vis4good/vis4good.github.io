@@ -61,7 +61,7 @@ We expect that each lightning talk will consist of roughly 3 minutes of speaking
 
 Submissions should be made at: [https://bit.ly/vis4good-lightning](https://bit.ly/vis4good-lightning)
 
-### Program
+### Paper Presentations
 
 **Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization**  
 Authors: Alyxander Burns, Thai On, Christiana Lee, Rachel Shapiro, Cindy Xiong, Narges Mahyar
