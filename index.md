@@ -36,6 +36,32 @@ margin-top: 2em;
   margin-right: auto;
 }
 
+.keynote-item {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  width: 100pt;
+  margin-right: 32px;
+}
+
+.keynote_image {
+  width: 100pt;
+  border-radius: 50%;
+}
+
+.caption {
+  display: block;
+  text-align: center;
+}
+
+.grid-item {
+  width: 200pt;
+  text-align: center;
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
+
 </style>
 
 
@@ -114,7 +140,22 @@ Submissions will be made via [PCS](https://new.precisionconference.com/submissio
 
 ### Keynote Speakers
 
-TBD
+<figure class="keynote-item">
+  <img class="keynote_image" src="img/schwabish.jpg" alt="Jon Schwabish head shot"/>
+  <figcaption class="caption">Jon Schwabish<br />Urban Institute</figcaption>
+</figure>
+
+<figure class="keynote-item">
+  <img class="keynote_image" src="img/alice.jpeg" alt="Alice Feng head shot"/>
+  <figcaption class="caption">Alice Feng<br />Urban Institute</figcaption>
+</figure>
+
+**Applying Racial Equity Awareness in Data Visualization**
+How can analysts, researchers, and developers apply a race- and ethnicity-conscious lens to their data analysis and data visualization work? How can we take a more diverse, equitable, and inclusive (DEI) perspective to our research, data, and visualizations? Just as we carefully consider our written words, we should be equally careful in how we visually present data to our readers, users, and audiences, including the words we use in and around those visuals. Taking a DEI perspective means considering how the specific lived experiences and perspectives of the people and communities we are studying, as well as our readers, will perceive information and carry that information forward. In this talk, we discuss a variety of techniques that data visualization producers should consider when creating visuals with this DEI approach. 
+
+Dr. Jonathan Schwabish is an economist, writer, teacher, and creator of policy-relevant data visualizations. He is considered a leading voice for clarity and accessibility in how researchers communicate their findings. His book [Better Presentations: A Guide for Scholars, Researchers, and Wonks](http://www.amazon.com/gp/product/0231175205/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231175205&linkCode=as2&tag=poli03-20&linkId=7G4NKCTMS2VE2GXI) helps people improve the way they prepare, design, and deliver data-rich content and his edited book, [Elevated the Debate: A Multilayered Approach to Communicating Your Research](https://amzn.to/2rrVbXS), helps people develop a strategic plan to communicating their work across multiple platforms and channels. His latest book, [Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks](https://amzn.to/2zHQ4qv) details essential strategies to create more effective data visualizations. He is on Twitter [@jschwabish](https://twitter.com/jschwabish).
+
+Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Her work has appeared in [The Parametric Press](https://parametric.press/issue-01/the-myth-of-the-impartial-machine/) and [The Pudding](https://pudding.cool/2020/08/income/). Previously, Alice worked as a data viz developer at the Urban Institute where she built interactive and static data visualization features and tools communicating public policy research. Alice is currently embarking on a new adventure at [Natera](https://www.natera.com/). She is on Twitter [@fleecealeece](https://twitter.com/fleecealeece). 
 
 ### Program Committee
 
