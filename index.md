@@ -61,6 +61,23 @@ We expect that each lightning talk will consist of roughly 3 minutes of speaking
 
 Submissions should be made at: [https://bit.ly/vis4good-lightning](https://bit.ly/vis4good-lightning)
 
+### Program
+
+**Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization**  
+Authors: Alyxander Burns, Thai On, Christiana Lee, Rachel Shapiro, Cindy Xiong, Narges Mahyar
+
+**CleanAirNowKC: Building Community Power by Improving Data Accessibility**  
+Authors: Rifat Ara Proma, Matthew Sumpter, Humberto Lugo, Elizabeth Friedman, Khandaker Tasnim Huq, Paul Rosen
+
+**Local, Interactive, and Actionable: a Pandemic Behavioral Nudge**  
+Authors: Alex Rich, Cameron Yick, David Gotz
+
+**Feral data visualization: A manifesto for cultivating livable worlds with visual sensemaking practices**  
+Authors: Cathryn A Ploehn, Molly Wright Steenson, Daragh Byrne
+
+**The importance of engaged communities for social good visualisation**  
+Authors: Neil Richards
+
 ### Call for Papers
 We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
 
