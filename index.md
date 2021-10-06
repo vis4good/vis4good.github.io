@@ -79,31 +79,37 @@ We are proud to announce the first **Workshop on Visualization for Social Good**
 
 Visualization, like all fields connected with how we collect, interpret, and communicate data, has an immense potential impact on society, for good or for ill. It is up to us to make sure our work affects positive change in the world. The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2021 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
 
-### (New!) Call for Lightning Talks
+
+### Schedule
+
+| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |                                                                                                 |                                                                                               |
+|:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 8:00-8:15 | **Introduction & Welcome**                                                                                 |                                                                                                       |                                                               |
+| 8:15-9:00 | **Keynote: *Applying Racial Equity Awareness in Data Visualization***                                                | Jon Schwabish, Alice Feng                                                                             |
+| 9:00-9:30 | **Paper Session 1**                                                                                        |                                                                                                       |
+|  | *CleanAirNowKC: Building Community Power by Improving Data Accessibility*                                | Rifat Ara Proma, Matthew Sumpter, Humberto Lugo, Elizabeth Friedman, Khandaker Tasnim Huq, Paul Rosen |
+|  | *Local, Interactive, and Actionable: a Pandemic Behavioral Nudge*                                        | Alex Rich, Cameron Yick, David Gotz                                                                   |
+| 9:25-10:00 | **Break**                                                                                                  |                                                                                                       |
+| 10:00-10:36 | **Paper Session 2**                                                                                        |                                                                                                       |
+|  | *Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization*               | Alyxander Burns, Thai On, Christina Lee, Rachel Shapiro, Cindy Xiong, Narges Mahyar                   |
+|  | *Feral data visualization: A manifesto for cultivating livable worlds with visual sensemaking practices* | Cathryn A Ploehn, Molly Wright Steenson, Daragh Byrne                                                 |
+|  | *The importance of engaged communities for social good visualisation*                                    | Neil Richards                                                                                         |
+| 10:36-11:06 | **Lightning Talks**                                                                                        |                                                                                                       |
+|  | *Facilitating Visualization for Social Good in Academic Courses*                                         | Uzma Haque Syeda, Michelle Borkin                                                                     |
+|  | *Visualizing Urban Accessibility: Understanding Sensemaking Processes across Multiple Stakeholders*      | Manaswi Saha, Jon Froehlich, Jeffrey Heer                                                             |
+|  | *Representing Systems of Need and Satisfaction*                                                          | Michael Hoefer, Stephen Voida                                                                         |
+|  | *Local, Interactive, and Actionable: a Pandemic Behavioral Nudge*                                        | Alex Rich, Cameron Yick, David Gotz                                                                   |
+|  | *Visualizing Sexual Harassment Testimonies: Academia is Tied in Knots*                                   | Tommaso Elli, Adam Bradley, Christopher Collins, Uta Hinrichs                                         |
+| 11:01-11:05 | **Closing Remarks**                                                                                        |                                                                                                       |
+| 11:05-11:25 | **Break Out Session**                                                                                      |                                                                                                       |
+
+### Call for Lightning Talks
 
 To include diverse perspectives beyond our accepted research papers on this topic, we are introducing lightning talks: a low-barrier way to present research/design studies (even if they have been presented at other venues!), provocations/critiques, or organizations that contribute to the mission of our workshop.
 
 We expect that each lightning talk will consist of roughly 3 minutes of speaking time during the workshop (time may vary depending on submissions) and a single slide. All talks and presenters will be advertised on the website as well as in our social media promotional material.
 
 Submissions should be made at: [https://bit.ly/vis4good-lightning](https://bit.ly/vis4good-lightning)
-
-### Accepted Papers
-
-**Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization**  
-Authors: Alyxander Burns, Thai On, Christiana Lee, Rachel Shapiro, Cindy Xiong, Narges Mahyar
-
-**CleanAirNowKC: Building Community Power by Improving Data Accessibility**  
-Authors: Rifat Ara Proma, Matthew Sumpter, Humberto Lugo, Elizabeth Friedman, Khandaker Tasnim Huq, Paul Rosen
-
-**Local, Interactive, and Actionable: a Pandemic Behavioral Nudge**  
-Authors: Alex Rich, Cameron Yick, David Gotz
-
-**Feral data visualization: A manifesto for cultivating livable worlds with visual sensemaking practices**  
-Authors: Cathryn A Ploehn, Molly Wright Steenson, Daragh Byrne
-
-**The importance of engaged communities for social good visualisation**  
-Authors: Neil Richards
-
 
 ### Call for Papers
 We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
@@ -134,8 +140,8 @@ Submissions will be made via [PCS](https://new.precisionconference.com/submissio
 - ~~August 9: Reviews Due~~
 - ~~August 18: Notifications~~
 - ~~August 27: Camera-Ready Deadline~~
-- September 24: Lightning Talk Submission Deadline
-- October 1: Lightning Talk Notification
+- ~~September 24: Lightning Talk Submission Deadline~~
+- ~~October 1: Lightning Talk Notification~~
 - October 25: Workshop Date
 
 ### Keynote Speakers
