@@ -185,13 +185,13 @@ Alice Feng is a data visualization developer based in the Washington, DC area. S
 
 <div id="bios">
 
-<a href="https://homes.cs.washington.edu/~leibatt/bio.html">
+<a href="https://homes.cs.washington.edu/~leibatt/">
 <div class="grid-item">
-  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot"/>
+  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot" />
   <div class="bio_name">Leilani Battle</div>
   <div class="bio_affiliation">University of Washington</div>
   <div class="bio_text">
-  Leilani Battle is an Assistant Professor at the University of Maryland, College Park, with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS). She is also affiliated with the UMD Human-Computer Interaction Laboratory (HCIL). Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+  Leilani Battle is an Assistant Professor in the Paul G. Allen Center of Computer Science and Engineering at the University of Washington. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
   </div>
 </div>
 </a>
