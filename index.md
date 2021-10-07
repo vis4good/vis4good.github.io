@@ -185,7 +185,7 @@ Alice Feng is a data visualization developer based in the Washington, DC area. S
 
 <div id="bios">
 
-<a href="https://www.cs.umd.edu/~leilani">
+<a href="https://homes.cs.washington.edu/~leibatt/bio.html">
 <div class="grid-item">
   <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot"/>
   <div class="bio_name">Leilani Battle</div>
