@@ -94,13 +94,12 @@ Visualization, like all fields connected with how we collect, interpret, and com
 |  | *Making the Invisible Visible: Risks and Benefits of Disclosing Metadata in Visualization*               | Alyxander Burns, Thai On, Christina Lee, Rachel Shapiro, Cindy Xiong, Narges Mahyar                   |
 |  | *Feral data visualization: A manifesto for cultivating livable worlds with visual sensemaking practices* | Cathryn A Ploehn, Molly Wright Steenson, Daragh Byrne                                                 |
 |  | *The importance of engaged communities for social good visualisation*                                    | Neil Richards                                                                                         |
-| 10:36-11:06 | **Lightning Talks**                                                                                        |                                                                                                       |
+| 10:36-10:56 | **Lightning Talks**                                                                                        |                                                                                                       |
 |  | *Facilitating Visualization for Social Good in Academic Courses*                                         | Uzma Haque Syeda, Michelle Borkin                                                                     |
 |  | *Visualizing Urban Accessibility: Understanding Sensemaking Processes across Multiple Stakeholders*      | Manaswi Saha, Jon Froehlich, Jeffrey Heer                                                             |
 |  | *Representing Systems of Need and Satisfaction*                                                          | Michael Hoefer, Stephen Voida                                                                         |
-|  | *Local, Interactive, and Actionable: a Pandemic Behavioral Nudge*                                        | Alex Rich, Cameron Yick, David Gotz                                                                   |
 |  | *Visualizing Sexual Harassment Testimonies: Academia is Tied in Knots*                                   | Tommaso Elli, Adam Bradley, Christopher Collins, Uta Hinrichs                                         |
-| 11:01-11:05 | **Closing Remarks**                                                                                        |                                                                                                       |
+| 10:56-11:05 | **Closing Remarks**                                                                                        |                                                                                                       |
 | 11:05-11:25 | **Break Out Session**                                                                                      |                                                                                                       |
 
 ### Call for Lightning Talks
