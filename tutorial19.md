@@ -2,7 +2,7 @@
 layout: page
 permalink: /tutorial2019
 title: Tutorial 2019
-order: 2
+order: 3
 ---
 
 - **When:** Monday, Oct. 21, 14:20-17:40pm
