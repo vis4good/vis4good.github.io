@@ -150,3 +150,9 @@ Narges Mahyar is an Assistant Professor in the College of Information and Comput
 </a>
 
 </div>
+
+
+### Steering Committee 
+
+- **[Evan Peck](https://www.eg.bucknell.edu/~emp017/)**, Bucknell University
+- **[Michael Correll](http://correll.io/)**, Tableau Research
