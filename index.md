@@ -115,13 +115,13 @@ Please check back for the Call for Papers (and other contributions), Program Com
 </div>
 </a>
 
-<a href="http://correll.io/">
+<a href="https://emilywall.github.io/">
 <div class="grid-item">
-  <img class="bio_image" src="img/correll.png" alt="Michael Correll head shot" />
-  <div class="bio_name">Michael Correll</div>
-  <div class="bio_affiliation">Tableau Research</div>
+  <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
+  <div class="bio_name">Emily Wall</div>
+  <div class="bio_affiliation">Emory University</div>
   <div class="bio_text">
-    Michael Correll is a research scientist at Tableau Software. His research focuses on the presentation of statistical information to audiences without statistical backgrounds. As part of this work he also focuses on the ethical implications of visualization work, and blogs about using data visualization for advocacy and social good. He also focuses on techniques for visualizing uncertainty and communicating uncertain data to wider audiences.
+    I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
   </div>
 </div>
 </a>
@@ -137,13 +137,14 @@ Please check back for the Call for Papers (and other contributions), Program Com
 </div>
 </a>
 
-<a href="https://www.eg.bucknell.edu/~emp017/">
+<a href="https://www.cics.umass.edu/people/mahyar-narges">
 <div class="grid-item">
-  <img class="bio_image" src="img/peck.jpg" alt="Evan Peck head shot" />
-  <div class="bio_name">Evan Peck</div>
-  <div class="bio_affiliation">Bucknell University</div>
+  <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
+  <div class="bio_name">Narges Mahyar</div>
+  <div class="bio_affiliation">University of Massachusetts Amherst</div>
   <div class="bio_text">
-    Evan Peck is an Assistant Professor of Computer Science at Bucknell University.  He has been broadly active in integrating ethical design into introductory CS courses, including running a workshop at SIGCSE 2019, curating and writing about ethical CS modules, and serving as a judge in \textit{The Responsible CS Challenge}. His recent research acts as an extension of these interests - focusing on the communication of data to underrepresented populations in rural Pennsylvania.
+Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
+
   </div>
 </div>
 </a>
