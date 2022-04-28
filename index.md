@@ -128,7 +128,7 @@ Please check back for the Call for Papers (and other contributions), Program Com
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="img/harrison.jpg" alt="Lane Harrison head shot" />
+  <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
   <div class="bio_name">Lane Harrison</div>
   <div class="bio_affiliation">Worcester Polytechnic Institute</div>
   <div class="bio_text">
@@ -137,7 +137,7 @@ Please check back for the Call for Papers (and other contributions), Program Com
 </div>
 </a>
 
-<a href="https://www.cics.umass.edu/people/mahyar-narges">
+<a href="https://groups.cs.umass.edu/nmahyar/">
 <div class="grid-item">
   <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
   <div class="bio_name">Narges Mahyar</div>
