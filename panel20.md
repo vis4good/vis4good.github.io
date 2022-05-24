@@ -173,7 +173,7 @@ Register for free at [http://ieeevis.org/year/2020/info/registration/conference-
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="../img/harrison.jpg" alt="Lane Harrison head shot" />
+  <img class="bio_image" src="../img/harrison.jpeg" alt="Lane Harrison head shot" />
   <div class="bio_name">Lane Harrison</div>
   <div class="bio_affiliation">Worcester Polytechnic Institute</div>
   <div class="bio_text">

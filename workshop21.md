@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /workshop21
+permalink: /workshop2021
 title: Workshop 2021
 order: 2
 ---
@@ -220,7 +220,7 @@ Alice Feng is a data visualization developer based in the Washington, DC area. S
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="img/harrison.jpg" alt="Lane Harrison head shot" />
+  <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
   <div class="bio_name">Lane Harrison</div>
   <div class="bio_affiliation">Worcester Polytechnic Institute</div>
   <div class="bio_text">
