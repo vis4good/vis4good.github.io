@@ -78,16 +78,54 @@ We are proud to announce the second **Workshop on Visualization for Social Good*
 
 There are many ways that work in visualization can have immediate social impact--- working closely with community stakeholders, exploring how to present data for mass audiences, evaluating the potential of visualization for advocacy or as a tool to shape public policy--- all have the potential to reshape society for the better. Thoughtfulness, reflection, and critique are likewise important to build up a clear picture of both the potential benefits and potential harms of visualization research.
 
-In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2022 workshop: pedagogy, process, and protest.
-
-
-* We have the potential to re-imagine visualization *pedagogy*: to build curricula that encourage closer connections with communities and public service, build up data literacy in crucial audiences, or to better integrate ethical practices and thinking in how we conceptualize visualization as a discipline.
-* The *process* of designing, evaluating, or circulating visualizations takes on a special character and urgency when dealing with matters of social importance, or as part of collaborations and relationships between visualizations experts and mass audiences.
-* Visualization can also act as a powerful tool for advocacy and *protest*: charts and graphs can place inequality or inequity in stark relief, and can act as a persuasive in a world that strives to be "data-driven." However, visualization designers themselves, through resistance or refusal, can comment on the unequal ways that data are collected, presented, or organized in our society.
-
 The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2022 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
 
-Please check back for the Call for Papers (and other contributions), Program Committee, and more!
+### Call for Papers
+
+We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
+
+With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social *responsibility.* To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
+
+To that end, we are soliciting work that deals with the social impact of visualization work. 
+In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2022 workshop: **pedagogy**, **process**, and **protest**.
+
+- We have the potential to re-imagine visualization **pedagogy**: to build curricula that encourage closer connections with communities and public service, build up data literacy in crucial audiences, or to better integrate ethical practices and thinking in how we conceptualize visualization as a discipline.
+- The **process** of designing, evaluating, or circulating visualizations takes on a special character and urgency when dealing with matters of social importance, or as part of collaborations and relationships between visualizations experts and mass audiences.
+- Visualization can also act as a powerful tool for advocacy and **protest**: charts and graphs can place inequality or inequity in stark relief, and can act as a persuasive in a world that strives to be “data-driven.”' However, visualization designers themselves, through resistance or refusal, can comment on the unequal ways that data are collected, presented, or organized in our society.
+
+#### Contributions
+Potential contributions might include (but are not limited to):
+
+- Design studies, "collaboration journals," or other best practices for visualization work in domains with high social impact. Examples include:
+  - Public health, development, and sustainable growth
+  - Inclusivity, accessibility, and disability rights
+  - Diversity, racial equality, and gender equality
+  - Sustainability, ecology, and environmental activism
+- Explorations of design considerations for visualizations for mass audiences or policymakers. Examples include:
+  - Building statistical or visualization literacy and fluency
+  - Persuasion, misinformation, and deception
+  - Accessibility
+- Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research
+
+Consult our [resources page](resources) and [2021 workshop](workshop2021) for sample works.
+
+#### Submissions
+
+Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings. The deadline for paper submissions is *July 6*.
+
+Authors also have the option to submit a *2-page abstract for a poster* to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is *August 15*.
+
+Paper and poster submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
+
+### Important Dates
+
+- July 6: Paper Submission Deadline
+- July 26: Paper Reviews Due
+- August 1: Paper Notification Date
+- August 21: Paper Camera-Ready Deadline 
+- August 15: Poster Submission Deadline 
+- September 1: Poster Notification
+
 
 ### Organizers
 
