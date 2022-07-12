@@ -111,9 +111,9 @@ Consult our [resources page](resources) and [2021 workshop](workshop2021) for sa
 
 #### Submissions
 
-Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings. The deadline for paper submissions is *July 6*.
+Papers will be *up to four pages, plus up to one page of references*, in [VGTC two-column format](https://tc.computer.org/vgtc/publications/conference/). Authors may elect to have their paper included archivally, or, per the authors' request (e.g., for in-progress work), to have the work be presented but excluded from formal conference proceedings. The deadline for paper submissions is *July 20*.
 
-Authors also have the option to submit a *2-page abstract for a poster* to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is *August 15*.
+Authors also have the option to submit a *2-page abstract for a poster* to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is *September 7*.
 
 Paper and poster submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
 
