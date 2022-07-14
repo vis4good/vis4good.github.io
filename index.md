@@ -67,7 +67,7 @@ margin-top: 2em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** TBA, between 16-21 October 2022
+- **When:** Sunday 16 October 2022 2-5pm CDT (UTC-5)
 - **Where:** VIS 2022
 - **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
