@@ -122,10 +122,10 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 **New: We've extended the submission deadline from July 6 to July 25**
 
 - July 25: Workshop paper submissions deadline
-- August 22: Reviews due
-- August 31: Workshop paper notifications
+- August 19: Reviews due
+- August 22: Workshop paper notifications
+- August 29: Camera-ready paper deadline
 - September 7: Poster submission deadline 
-- September 9: Camera-ready paper deadline
 - September 14: Poster notifications 
 
 
