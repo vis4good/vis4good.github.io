@@ -129,6 +129,24 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 - September 14: Poster notifications 
 
 
+### Program Committee
+
+- **Alyxander Burns**, UMass Amherst
+- **Vetria Byrd**, Purdue
+- **Catherine D'Ignazio**, MIT
+- **Mennatallah El-Assady**, University of Konstanz / Ontario University
+- **Mi Feng**, Twitter
+- **Lauren Klein**, Emory
+- **Sean McGregor**, Syntiant, Partnership on AI, XPrize Foundation
+- **Ab Mosca**, Tufts
+- **Cathryn A Ploehn**, CMU
+- **Paul Rosen**, USF
+- **Manaswi Saha**, UW
+- **Arvind Satyanarayan**, MIT
+- **Jon Schwabish**, Urban Institute
+- **Uzma Haque Syeda**, Northeastern
+
+
 ### Organizers
 
 <div id="bios">
