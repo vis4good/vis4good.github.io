@@ -10,56 +10,56 @@ margin-top: 2em;
 }
 
 #bios {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  grid-gap: 10px;
-  margin-bottom: 10px;
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+ grid-gap: 10px;
+ margin-bottom: 10px;
 }
 
 .bio_image {
-  width: 100pt;
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 5px;
+ width: 100pt;
+ border-radius: 50%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 5px;
 }
 
 .bio_text {
-  display: none;
+ display: none;
 }
 
 .bio_name, .bio_affiliation {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+ text-align: center;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .keynote-item {
-  vertical-align: top;
-  display: inline-block;
-  text-align: center;
-  width: 100pt;
-  margin-right: 32px;
+ vertical-align: top;
+ display: inline-block;
+ text-align: center;
+ width: 150pt;
+ margin-right: 32px;
 }
 
 .keynote_image {
-  width: 100pt;
-  border-radius: 50%;
+ width: 100pt;
+ border-radius: 50%;
 }
 
 .caption {
-  display: block;
-  text-align: center;
+ display: block;
+ text-align: center;
 }
 
 .grid-item {
-  width: 200pt;
-  text-align: center;
-  display: block;
-  margin-left: 0;
-  margin-right: auto;
+ width: 300pt;
+ text-align: center;
+ display: block;
+ margin-left: 0;
+ margin-right: auto;
 }
 
 </style>
@@ -80,6 +80,25 @@ There are many ways that work in visualization can have immediate social impact-
 
 The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2022 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
 
+### Schedule
+
+| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
+|:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 2:00-2:15 | **Introduction & Welcome** | | |
+| 2:15-3:10 | **Keynote: *Time, Space and Place: How to Break All Of Data's Rules*** | Jer Thorp |
+| 3:10-3:30 | **Paper Session 1** | |
+| | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
+| | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
+| 3:30-4:00 | **Break** | |
+| 4:00-4:55 | **Paper Session 2** | |
+| | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/burns.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
+| | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/ploehn.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
+| | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
+| | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
+| | *[Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion](papers/2022/richards.pdf)* | Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou |
+| | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/richards.pdf)* | Nil Tuzcu |
+| 4:55-5:00 | **Closing Remarks** | |
+
 ### Call for Papers
 
 We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
@@ -97,14 +116,14 @@ In order to focus the goals of our workshop, provide inspiration to potential at
 Potential contributions might include (but are not limited to):
 
 - Design studies, "collaboration journals," or other best practices for visualization work in domains with high social impact. Examples include:
-  - Public health, development, and sustainable growth
-  - Inclusivity, accessibility, and disability rights
-  - Diversity, racial equality, and gender equality
-  - Sustainability, ecology, and environmental activism
+ - Public health, development, and sustainable growth
+ - Inclusivity, accessibility, and disability rights
+ - Diversity, racial equality, and gender equality
+ - Sustainability, ecology, and environmental activism
 - Explorations of design considerations for visualizations for mass audiences or policymakers. Examples include:
-  - Building statistical or visualization literacy and fluency
-  - Persuasion, misinformation, and deception
-  - Accessibility
+ - Building statistical or visualization literacy and fluency
+ - Persuasion, misinformation, and deception
+ - Accessibility
 - Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research
 
 Consult our [resources page](resources) and [2021 workshop](workshop2021) for sample works.
@@ -119,14 +138,27 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 
 ### Important Dates
 
-**New: We've extended the submission deadline from July 6 to July 25**
+- ~~July 25: Workshop paper submissions deadline~~
+- ~~August 19: Reviews due~~
+- ~~August 22: Workshop paper notifications~~
+- ~~August 29: Camera-ready paper deadline~~
+- ~~September 7: Poster submission deadline~~
+- ~~September 14: Poster notifications~~
+- October 16: Workshop date
 
-- July 25: Workshop paper submissions deadline
-- August 19: Reviews due
-- August 22: Workshop paper notifications
-- August 29: Camera-ready paper deadline
-- September 7: Poster submission deadline 
-- September 14: Poster notifications 
+
+### Keynote
+
+<figure class="keynote-item">
+ <a href="https://www.jerthorp.com/about">
+   <img class="keynote_image" src="img/thorp.jpeg" alt="Jer Thorp head shot"/>
+ </a>
+   <figcaption class="caption">Jer Thorp <br /> Artist, Writer, Educator </figcaption>
+</figure>
+
+**Time, Space and Place: How to Break All Of Data's Rules**
+
+In this presentation, Jer Thorp will share a decade’s worth of work that seeks to break down the rules we have built for data representation, and the rigid demands we’ve put on our audiences. Starting with static visualization and stretching to sculpture, performance and participatory art, Thorp will examine how refusing to comply with Tuftian standards might give data a chance to speak to wider audiences about complex topics.
 
 
 ### Program Committee
@@ -153,57 +185,57 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 
 <a href="https://homes.cs.washington.edu/~leibatt/">
 <div class="grid-item">
-  <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot" />
-  <div class="bio_name">Leilani Battle</div>
-  <div class="bio_affiliation">University of Washington</div>
-  <div class="bio_text">
-  Leilani Battle is an Assistant Professor in the Paul G. Allen Center of Computer Science and Engineering at the University of Washington. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
-  </div>
+ <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot" />
+ <div class="bio_name">Leilani Battle</div>
+ <div class="bio_affiliation">University of Washington</div>
+ <div class="bio_text">
+ Leilani Battle is an Assistant Professor in the Paul G. Allen Center of Computer Science and Engineering at the University of Washington. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+ </div>
 </div>
 </a>
 
 <a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
 <div class="grid-item">
-  <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
-  <div class="bio_name">Michelle Borkin</div>
-  <div class="bio_affiliation">Northeastern University</div>
-  <div class="bio_text">
-    Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
-  </div>
+ <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
+ <div class="bio_name">Michelle Borkin</div>
+ <div class="bio_affiliation">Northeastern University</div>
+ <div class="bio_text">
+ Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
+ </div>
 </div>
 </a>
 
 <a href="https://emilywall.github.io/">
 <div class="grid-item">
-  <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
-  <div class="bio_name">Emily Wall</div>
-  <div class="bio_affiliation">Emory University</div>
-  <div class="bio_text">
-    I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
-  </div>
+ <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
+ <div class="bio_name">Emily Wall</div>
+ <div class="bio_affiliation">Emory University</div>
+ <div class="bio_text">
+ I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
+ </div>
 </div>
 </a>
 
 <a href="https://web.cs.wpi.edu/~ltharrison/">
 <div class="grid-item">
-  <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
-  <div class="bio_name">Lane Harrison</div>
-  <div class="bio_affiliation">Worcester Polytechnic Institute</div>
-  <div class="bio_text">
-    Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
-  </div>
+ <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
+ <div class="bio_name">Lane Harrison</div>
+ <div class="bio_affiliation">Worcester Polytechnic Institute</div>
+ <div class="bio_text">
+ Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
+ </div>
 </div>
 </a>
 
 <a href="https://groups.cs.umass.edu/nmahyar/">
 <div class="grid-item">
-  <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
-  <div class="bio_name">Narges Mahyar</div>
-  <div class="bio_affiliation">University of Massachusetts Amherst</div>
-  <div class="bio_text">
+ <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
+ <div class="bio_name">Narges Mahyar</div>
+ <div class="bio_affiliation">University of Massachusetts Amherst</div>
+ <div class="bio_text">
 Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
 
-  </div>
+ </div>
 </div>
 </a>
 
