@@ -85,19 +85,18 @@ The Visualization for Social Good Workshop (Vis4Good) aims to provide a central 
 | Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
 |:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 2:00-2:15 | **Introduction & Welcome** | | |
-| 2:15-3:10 | **Keynote: *Time, Space and Place: How to Break All Of Data's Rules*** | Jer Thorp |
-| 3:10-3:30 | **Paper Session 1** | |
+| 2:15-3:15 | **Keynote: *Time, Space and Place: How to Break All Of Data's Rules*** | Jer Thorp |
+| 3:15-3:45 | **Break** | |
+| 3:45-5:00 | **Paper Session** | |
 | | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
 | | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
-| 3:30-4:00 | **Break** | |
-| 4:00-4:55 | **Paper Session 2** | |
 | | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/besancon.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
 | | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/jansen.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
 | | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
 | | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
 | | *[Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion](papers/2022/markant.pdf)* | Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou |
 | | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/tuzcu.pdf)* | Nil Tuzcu |
-| 4:55-5:00 | **Closing Remarks** | |
+| 5:00 | **Closing Remarks** | |
 
 ### Call for Papers
 
