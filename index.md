@@ -84,7 +84,7 @@ The Visualization for Social Good Workshop (Vis4Good) aims to provide a central 
 
 | Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
 |:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 2:00-2:15 | **Introduction & Welcome, Paper Session 2** | | |
+| 2:00-2:15 | **Introduction & Welcome, Paper Session** | | |
 | | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
 | | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/besancon.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
 | | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/jansen.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
