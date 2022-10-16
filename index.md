@@ -84,18 +84,18 @@ The Visualization for Social Good Workshop (Vis4Good) aims to provide a central 
 
 | Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
 |:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 2:00-2:15 | **Introduction & Welcome** | | |
-| 2:15-3:15 | **Keynote: *Time, Space and Place: How to Break All Of Data's Rules*** | Jer Thorp |
-| 3:15-3:45 | **Break** | |
-| 3:45-5:00 | **Paper Session** | |
-| | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
+| 2:00-2:15 | **Introduction & Welcome, Paper Session 2** | | |
 | | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
 | | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/besancon.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
 | | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/jansen.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
-| | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
-| | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
 | | *[Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion](papers/2022/markant.pdf)* | Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou |
+| | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
+| | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
+| 3:15-3:45 | **Break** | |
+| 3:45-5:00 | **Paper Session 2 & Break-out Session** | |
+| | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
 | | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/tuzcu.pdf)* | Nil Tuzcu |
+| | *Break-out Session: Brainstorming Visualization for Social Good* | Vis4Good attendees and community |
 | 5:00 | **Closing Remarks** | |
 
 ### Call for Papers
@@ -146,7 +146,7 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 - October 16: Workshop date
 
 
-### Keynote
+### ~~Keynote~~ (Cancelled) 
 
 <figure class="keynote-item">
  <a href="https://www.jerthorp.com/about">
