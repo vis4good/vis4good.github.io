@@ -68,7 +68,7 @@ margin-top: 2em;
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
 - **When:** Sunday 16 October 2022 2-5pm CDT (UTC-5)
-- **Where:** VIS 2022 at Oklahoma Station 8
+- **Where:** VIS 2023 
 - **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
 ### Welcome
