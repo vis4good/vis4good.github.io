@@ -67,36 +67,19 @@ margin-top: 2em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** Sunday 16 October 2022 2-5pm CDT (UTC-5)
-- **Where:** VIS 2023 
+- **When:** Sunday 22 October, 2023 /Monday 23 October, 2023
+- **Where:** VIS 2023, Melbourne Convention and Exhibition Centre, Melbourne, Australia
 - **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
 ### Welcome
 
-We are proud to announce the second **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome). The goal of this workshop is to:
-- ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
+We are proud to announce the third **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome). The goal of this workshop is to:
+- ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures.***
 
-There are many ways that work in visualization can have immediate social impact--- working closely with community stakeholders, exploring how to present data for mass audiences, evaluating the potential of visualization for advocacy or as a tool to shape public policy--- all have the potential to reshape society for the better. Thoughtfulness, reflection, and critique are likewise important to build up a clear picture of both the potential benefits and potential harms of visualization research.
-
-The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2022 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
+Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want? This theme, building just and equitable futures, is the motivation behind our proposal for a third edition of our recurring workshop at IEEE VIS: Visualization for Social Good. Our workshop series has had success not only at showcasing high-quality socially-minded visualization research from diverse voices, but also in starting important conversations around the role of data visualization as a force for good in society at large. We hope to continue this effort in 2023. Additionally, as our workshop matures, we feel our choice of theme allows us to take a more longitudinal focus as both a workshop and as a community. Our workshop, if accepted, would also occur amid a larger conversation about the role of data in human dignity and flourishing.
 
 ### Schedule
-
-| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
-|:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| 2:00-2:15 | **Introduction & Welcome, Paper Session** | | |
-| | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
-| | *[Exploring and Explaining Climate Change: Exploranation as a Visualization Pedagogy for Societal Action](papers/2022/besancon.pdf)* | Lonni Besançon, Konrad J Schönborn, Erik Sundén, Yin He, Samuel Rising, Peter Westerdahl, Patric Ljung, Josef Wideström, Charles Hansen, Anders Ynnerman |
-| | *[Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment](papers/2022/jansen.pdf)* | Yvonne Jansen, Federica Bucchieri, Pierre Dragicevic, Martin Hachet, Morgane Koval, Léana Petiot, Arnaud Prouzeau, Dieter Schmalstieg, Lijie Yao, Petra Isenberg |
-| | *[Can data visualizations change minds? Identifying mechanisms of elaborative thinking and persuasion](papers/2022/markant.pdf)* | Douglas Markant, Milad Rogha, Alireza Karduni, Ryan Wesslen, Wenwen Dou |
-| | *[Representing Marginalized Populations: Challenges in Anthropographics](papers/2022/dhawka.pdf)* | Priya Dhawka, Helen Ai He, Wesley Willett |
-| | *[Data Bricks Space Mission: Teaching Kids about Data with Physicalization](papers/2022/ambrosini.pdf)* | Lorenzo Ambrosini, Miriah Meyer |
-| 3:15-3:45 | **Break** | |
-| 3:45-5:00 | **Paper Session 2 & Break-out Session** | |
-| | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
-| | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/tuzcu.pdf)* | Nil Tuzcu |
-| | *Break-out Session: Brainstorming Visualization for Social Good* | Vis4Good attendees and community |
-| 5:00 | **Closing Remarks** | |
+Coming Soon!
 
 ### Call for Papers
 
@@ -125,7 +108,7 @@ Potential contributions might include (but are not limited to):
  - Accessibility
 - Critiques, manifestos, or provocations around social or ethical responsibilities in visualization design or research
 
-Consult our [resources page](resources) and [2021 workshop](workshop2021) for sample works.
+Consult our [resources page](resources), [2021 workshop](workshop2021), [2022 workshop](workshop2022) for sample works.
 
 #### Submissions
 
@@ -137,28 +120,7 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 
 ### Important Dates
 
-- ~~July 25: Workshop paper submissions deadline~~
-- ~~August 19: Reviews due~~
-- ~~August 22: Workshop paper notifications~~
-- ~~August 29: Camera-ready paper deadline~~
-- ~~September 7: Poster submission deadline~~
-- ~~September 14: Poster notifications~~
-- October 16: Workshop date
-
-
-### ~~Keynote~~ (Cancelled) 
-
-<figure class="keynote-item">
- <a href="https://www.jerthorp.com/about">
-   <img class="keynote_image" src="img/thorp.jpeg" alt="Jer Thorp head shot"/>
- </a>
-   <figcaption class="caption">Jer Thorp <br /> Artist, Writer, Educator </figcaption>
-</figure>
-
-**Time, Space and Place: How to Break All Of Data's Rules**
-
-In this presentation, Jer Thorp will share a decade’s worth of work that seeks to break down the rules we have built for data representation, and the rigid demands we’ve put on our audiences. Starting with static visualization and stretching to sculpture, performance and participatory art, Thorp will examine how refusing to comply with Tuftian standards might give data a chance to speak to wider audiences about complex topics.
-
+-Coming Soon!
 
 ### Program Committee
 
