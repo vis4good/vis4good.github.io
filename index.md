@@ -67,22 +67,20 @@ margin-top: 2em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** Sunday 16 October 2022 2-5pm CDT (UTC-5)
-- **Where:** VIS 2023 
+- **When:** Sunday 22 October, 2023 /Monday 23 October, 2023
+- **Where:** VIS 2023, Melbourne Convention and Exhibition Centre, Melbourne, Australia
 - **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
 ### Welcome
 
-We are proud to announce the second **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome). The goal of this workshop is to:
-- ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society.***
+We are proud to announce the third **Workshop on Visualization for Social Good** to be held as part of [IEEE VIS 2023](http://ieeevis.org/year/2023/welcome). The goal of this workshop is to:
+- ***provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society in order to build just and equitable futures.***
 
-There are many ways that work in visualization can have immediate social impact--- working closely with community stakeholders, exploring how to present data for mass audiences, evaluating the potential of visualization for advocacy or as a tool to shape public policy--- all have the potential to reshape society for the better. Thoughtfulness, reflection, and critique are likewise important to build up a clear picture of both the potential benefits and potential harms of visualization research.
-
-The Visualization for Social Good Workshop (Vis4Good) aims to provide a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. Through a blend of paper sessions, invited presentations, and break-out groups, we hope that the inaugural Vis4Good 2022 Workshop encourages attendees to harness visualization research to tackle critical challenges in responsible AI, clean energy, human health and well-being, and other domain areas with critical societal impact.
+Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want? This theme, building just and equitable futures, is the motivation behind our proposal for a third edition of our recurring workshop at IEEE VIS: Visualization for Social Good. Our workshop series has had success not only at showcasing high-quality socially-minded visualization research from diverse voices, but also in starting important conversations around the role of data visualization as a force for good in society at large. We hope to continue this effort in 2023. Additionally, as our workshop matures, we feel our choice of theme allows us to take a more longitudinal focus as both a workshop and as a community. Our workshop, if accepted, would also occur amid a larger conversation about the role of data in human dignity and flourishing.
 
 ### Schedule
 
-| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
+\| Time(CDT) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | |
 |:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 2:00-2:15 | **Introduction & Welcome, Paper Session** | | |
 | | *[Additional Perspectives on Data Equity](papers/2022/schwabish.pdf)* | Jonathan Schwabish, Alice Feng, Wesley Jenkins |
@@ -96,7 +94,7 @@ The Visualization for Social Good Workshop (Vis4Good) aims to provide a central 
 | | *[Ten Challenges and Explainable Analogs of growth functions and distributions for statistical literacy and fluency](papers/2022/hattab.pdf)* | Georges Hattab |
 | | *[(Poster Paper) Teaching Data Visualization for Social Impact](papers/2022/tuzcu.pdf)* | Nil Tuzcu |
 | | *Break-out Session: Brainstorming Visualization for Social Good* | Vis4Good attendees and community |
-| 5:00 | **Closing Remarks** | |
+| 5:00 | **Closing Remarks** | |\
 
 ### Call for Papers
 
