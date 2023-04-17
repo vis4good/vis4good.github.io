@@ -124,86 +124,91 @@ Paper and poster submissions will be made via [PCS](https://new.precisionconfere
 
 ### Program Committee
 
-- **Alyxander Burns**, UMass Amherst
-- **Vetria Byrd**, Purdue
+- **Lyn Bartram**, Simon Fraser University
+- **Vetria Byrd**, Purdue University
 - **Catherine D'Ignazio**, MIT
-- **Mennatallah El-Assady**, University of Konstanz / Ontario University
-- **Mi Feng**, Twitter
-- **Lauren Klein**, Emory
+- **Mennatallah El-Assady**, ETH Zurich
+- **Mary Czerwinski**, Microsoft Research
+- **Lauren Klein**, Emory University
 - **Sean McGregor**, Syntiant, Partnership on AI, XPrize Foundation
-- **Ab Mosca**, Tufts
-- **Cathryn A Ploehn**, CMU
-- **Paul Rosen**, USF
-- **Manaswi Saha**, UW
-- **Arvind Satyanarayan**, MIT
-- **Jon Schwabish**, Urban Institute
-- **Uzma Haque Syeda**, Northeastern
+- **Ab Mosca**, Northeastern University
+- **Jessica Hullman**, Northwestern University
+- **Crystal Lee**, MIT
+- **Ronald Metoyer**, University of Notre Dame
+- **Phillipe, Riviere**, Visioncarto
+- **Jon Schwabish**, PolicyViz
+ 
 
 
 ### Organizers
 
 <div id="bios">
 
-<a href="https://homes.cs.washington.edu/~leibatt/">
+<a href="https://www.evanthiadimara.com/home">
 <div class="grid-item">
- <img class="bio_image" src="img/battle.jpg" alt="Leilani Battle head shot" />
- <div class="bio_name">Leilani Battle</div>
- <div class="bio_affiliation">University of Washington</div>
+ <img class="bio_image" src="img/evanthia.png" alt="Evanthia Dimara head shot" />
+ <div class="bio_name">Evanthia Dimara</div>
+ <div class="bio_affiliation">Utrecht University</div>
  <div class="bio_text">
- Leilani Battle is an Assistant Professor in the Paul G. Allen Center of Computer Science and Engineering at the University of Washington. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+  Evanthia Dimara is an Assistant Professor of Computer Science at Utrecht University. Her fields of research are Information Visualization and HCI. Her research focuses on decision making --- to determine how technology can aid people to make impartial and informed decisions individually or as a group
  </div>
 </div>
 </a>
 
-<a href="https://www.khoury.northeastern.edu/people/michelle-borkin/">
+<a href="https://uzma0804.github.io/syeda/">
 <div class="grid-item">
- <img class="bio_image" src="img/borkin.jpg" alt="Michelle Borkin head shot" />
- <div class="bio_name">Michelle Borkin</div>
+ <img class="bio_image" src="img/syeda.JPG" alt="Uzma Haque head shot" />
+ <div class="bio_name">Uzma Haque Syeda</div>
  <div class="bio_affiliation">Northeastern University</div>
  <div class="bio_text">
- Michelle Borkin is an Assistant Professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on the development of visualization techniques and tools to enable new insights and discoveries in data across disciplines, informed and enhanced through the evaluation of perception and cognition theory. She is also passionate about broadening participation in visualization, and teaching visualization through a Service-Learning model which engages students with their local community and empowers them to use their visualization skills for social good.
- </div>
-</div>
-</a>
-
-<a href="https://emilywall.github.io/">
-<div class="grid-item">
- <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
- <div class="bio_name">Emily Wall</div>
- <div class="bio_affiliation">Emory University</div>
- <div class="bio_text">
- I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
- </div>
-</div>
-</a>
-
-<a href="https://web.cs.wpi.edu/~ltharrison/">
-<div class="grid-item">
- <img class="bio_image" src="img/harrison.jpeg" alt="Lane Harrison head shot" />
- <div class="bio_name">Lane Harrison</div>
- <div class="bio_affiliation">Worcester Polytechnic Institute</div>
- <div class="bio_text">
- Lane Harrison is an assistant professor at Worcester Polytechnic Institute. His research centers on measuring how audiences read and interact with visualizations, including graphical perception studies, and studies involving popular interactive visualizations on the web.
+  Uzma Haque Syeda is a fifth-year Ph.D. Student in the Khoury College of Computer Sciences at Northeastern University. She holds a B.Sc. in Electrical and Electronic Engineering from the University of Dhaka, Bangladesh, and an M.S. in Computer Science from Northeastern University. Her research focuses on bridging the gap between visualization research and pedagogy by providing methodologies to teach and implement design studies with nonprofit organizations to facilitate social good. The aim of her research is to benefit both the learners and the research community.
  </div>
 </div>
 </a>
 
 <a href="https://groups.cs.umass.edu/nmahyar/">
-<div class="grid-item">
- <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
- <div class="bio_name">Narges Mahyar</div>
- <div class="bio_affiliation">University of Massachusetts Amherst</div>
- <div class="bio_text">
-Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
+  <div class="grid-item">
+   <img class="bio_image" src="img/mahyar.jpeg" alt="Narges Mahyar head shot" />
+   <div class="bio_name">Narges Mahyar</div>
+   <div class="bio_affiliation">University of Massachusetts Amherst</div>
+   <div class="bio_text">
+  Narges Mahyar is an Assistant Professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst. She holds a PhD in Computer Science from the University of Victoria, an MS in Information Technology from the University of Malaya, and a BS in Electrical Engineering from Tehran Azad University. Her Ph.D. was funded by SAP Business Objects for four years, where she worked closely with SAP experts and research team to develop novel technologies for collaborative visual analytics tasks.
+  
+   </div>
+  </div>
+  </a>
 
+<a href="https://research.monash.edu/en/persons/delvin-varghese">
+<div class="grid-item">
+ <img class="bio_image" src="img/delvin.jpg" alt=" Delvin Varghese head shot" />
+ <div class="bio_name"> Delvin Varghese</div>
+ <div class="bio_affiliation">Monash University</div>
+ <div class="bio_text">
+  Delvin Varghese is a Research Fellow within Action Lab in the Department of Human-Centred Computing at Monash University. His research focuses on the design of technologies for nonprofits and community organizations to support community voice and inclusion, including recent domains such as community welfare, peer mentoring of rural volunteers, providing technological support for individuals released from prison, and ICTD in Bangladesh.
  </div>
 </div>
 </a>
 
+<a href="https://emilywall.github.io/">
+  <div class="grid-item">
+   <img class="bio_image" src="img/wall.jpeg" alt="Emily Wall head shot" />
+   <div class="bio_name">Emily Wall</div>
+   <div class="bio_affiliation">Emory University</div>
+   <div class="bio_text">
+   I am an Assistant Professor in the Department of Computer Science at Emory University. My students and I make up CAV Lab where we focus on cognition and visualization. I completed my Ph.D. in Computer Science at Georgia Tech in 2020 and was a postdoctoral researcher at Northwestern University 2020-2021.
+   </div>
+  </div>
+  </a>
+
 </div>
+
+ 
 
 
 ### Steering Committee 
 
-- **[Evan Peck](https://www.eg.bucknell.edu/~emp017/)**, Bucknell University
-- **[Michael Correll](http://correll.io/)**, Tableau Research
+- **[Evan Peck](https://www.eg.bucknell.edu/~emp017/)**, University of Colorado - Boulder
+- **[Michael Correll](http://correll.io/)**, Tableau Software
+- **[Michelle Borkin](https://www.khoury.northeastern.edu/people/michelle-borkin/)**, Northeastern University
+- **[Lane Harrison](https://web.cs.wpi.edu/~ltharrison/)**, Worcester Polytechnic Institute
+- **[Leilani Battle](https://homes.cs.washington.edu/~leibatt/bio.html)**, University of Washington
