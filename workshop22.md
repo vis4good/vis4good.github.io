@@ -1,7 +1,8 @@
 ---
 layout: page
-title: home
-exclude: true
+permalink: /workshop2022
+title: Workshop 2022
+order: 2
 ---
 <style>
 
