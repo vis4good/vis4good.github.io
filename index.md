@@ -83,7 +83,9 @@ Coming Soon!
 
 ### Call for Papers
 
-We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
+Details to come! 
+
+<!-- We as designers, researchers, and technologists, have many opportunities ahead of us, as laid out in aspirational plans like the [UN Sustainable Development Goals](https://sdgs.un.org/goals), the NAE [Grand Challenges for Engineering](http://www.engineeringchallenges.org/challenges.aspx), and the NSF [10 Big Ideas](https://www.nsf.gov/news/special_reports/big_ideas/). Yet, as the "techlash" continues, we are also seeing how technology has the power to magnify inequality, injustice, or other societal ills.
 
 With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social *responsibility.* To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
 
@@ -116,7 +118,7 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 
 Authors also have the option to submit a *2-page abstract for a poster* to be presented at the workshop. Poster abstracts follow the same format as paper submissions and will not be archived. The deadline for poster submissions is *September 7*.
 
-Paper and poster submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.
+Paper and poster submissions will be made via [PCS](https://new.precisionconference.com/submissions) and single-blind reviewed by the program committee.-->
 
 ### Important Dates
 
