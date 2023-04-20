@@ -86,7 +86,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-nav .nav-trigger { display: none; }
 
-.site-nav .menu-icon { display: none;}
+.site-nav .menu-icon { display: none; font-size:15px;}
 
 .site-nav .page-link { color: #111; line-height: 1.5; }
 
