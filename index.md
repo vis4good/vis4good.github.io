@@ -123,6 +123,8 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 - **Notification: August 1, 2023**
 - **Submission of Camera-Ready Final Version: August 15, 2023**
 
+All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
+
 ### Program Committee
 
 - **Lyn Bartram**, Simon Fraser University
