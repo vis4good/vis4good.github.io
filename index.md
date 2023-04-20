@@ -203,8 +203,6 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 
 </div>
 
- 
-
 
 ### Steering Committee 
 
