@@ -90,11 +90,8 @@ Details to come!
 With the power that comes with collecting, interpreting, and communicating data in visualization, there is naturally a social *responsibility.* To do good and avoid harm, we should make our values as a field explicit, criticize and critique the work we do that has a potential for harm, develop a pedagogy around the socially responsible design and use of visualization, and develop good patterns for fruitful collaboration with stakeholders working on key societal problems.
 
 To that end, we are soliciting work that deals with the social impact of visualization work. 
-In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2022 workshop: **pedagogy**, **process**, and **protest**.
+In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2023 workshop: **building just and equitable futures**.
 
-- We have the potential to re-imagine visualization **pedagogy**: to build curricula that encourage closer connections with communities and public service, build up data literacy in crucial audiences, or to better integrate ethical practices and thinking in how we conceptualize visualization as a discipline.
-- The **process** of designing, evaluating, or circulating visualizations takes on a special character and urgency when dealing with matters of social importance, or as part of collaborations and relationships between visualizations experts and mass audiences.
-- Visualization can also act as a powerful tool for advocacy and **protest**: charts and graphs can place inequality or inequity in stark relief, and can act as a persuasive in a world that strives to be “data-driven.”' However, visualization designers themselves, through resistance or refusal, can comment on the unequal ways that data are collected, presented, or organized in our society.
 
 #### Contributions
 Potential contributions might include (but are not limited to):
