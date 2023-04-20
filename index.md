@@ -90,6 +90,11 @@ With the power that comes with collecting, interpreting, and communicating data 
 To that end, we are soliciting work that deals with the social impact of visualization work. 
 In order to focus the goals of our workshop, provide inspiration to potential attendees or submitters, and to reflect on the pressing issues of contemporary importance, we propose the following theme for the 2023 workshop: **building just and equitable futures**.
 
+Some potential questions of interest include:
+- How can we adapt our ways of teaching, designing, or intervening in the face of imminent widespread societal, technological, or environmental change?
+- What audiences are included or excluded in our visualizations? How can data visualization be used to empower marginalized communities?
+- What role can data visualization play in promoting transparency and accountability in public and private sector decision making, especially as decision-making becomes increasingly automated and data-driven?
+
 
 #### Contributions
 Potential contributions might include (but are not limited to):
