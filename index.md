@@ -119,7 +119,7 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 
 ### Important Dates
 
-- **Submission Deadline: July 3, 2023** (no separate abstract deadline)
+- **Submission Deadline:** ~~July 3, 2023~~ **July 10, 2023** (no separate abstract deadline)
 - **Notification: August 1, 2023**
 - **Submission of Camera-Ready Final Version: August 15, 2023**
 
