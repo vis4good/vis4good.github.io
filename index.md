@@ -134,8 +134,8 @@ All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
 - **Ryan Wesslen**, UNC Charlotte
 - **Priya Dhakwa**, University of Calgary
 - **Natkamon Tovanich**, École Polytechnique
-- **Georgia Panagiotidou**, 
-- **Mahmood Jasim**, University College London
+- **Georgia Panagiotidou**, University College London
+- **Mahmood Jasim**, UMass Amherst
 - **Alyx Burns**, Mount Holyoke College
 - **Zack While**, UMass Amherst
  
