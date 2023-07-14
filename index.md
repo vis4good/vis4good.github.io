@@ -127,21 +127,18 @@ All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
 
 ### Program Committee
 
-- **Lyn Bartram**, Simon Fraser University
-- **Vetria Byrd**, Purdue University
 - **Catherine D'Ignazio**, MIT
-- **Mennatallah El-Assady**, ETH Zurich
-- **Mary Czerwinski**, Microsoft Research
-- **Lauren Klein**, Emory University
 - **Sean McGregor**, Syntiant, Partnership on AI, XPrize Foundation
 - **Ab Mosca**, Northeastern University
-- **Jessica Hullman**, Northwestern University
-- **Crystal Lee**, MIT
-- **Ronald Metoyer**, University of Notre Dame
-- **Phillipe, Riviere**, Visioncarto
-- **Jon Schwabish**, PolicyViz
+- **Doug Markant**, UNC Charlotte
+- **Ryan Wesslen**, UNC Charlotte
+- **Priya Dhakwa**, University of Calgary
+- **Natkamon Tovanich**, École Polytechnique
+- **Georgia Panagiotidou**, 
+- **Mahmood Jasim**, University College London
+- **Alyx Burns**, Mount Holyoke College
+- **Zack While**, UMass Amherst
  
-
 
 ### Organizers
 
