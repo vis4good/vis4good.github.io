@@ -132,7 +132,7 @@ All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
 - **Ab Mosca**, Northeastern University
 - **Doug Markant**, UNC Charlotte
 - **Ryan Wesslen**, UNC Charlotte
-- **Priya Dhakwa**, University of Calgary
+- **Priya Dhawka**, University of Calgary
 - **Natkamon Tovanich**, École Polytechnique
 - **Georgia Panagiotidou**, University College London
 - **Mahmood Jasim**, UMass Amherst
