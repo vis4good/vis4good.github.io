@@ -92,7 +92,7 @@ Data is an inescapable part of our lives: it guides commerce, government, and te
 | 9:42-9:45| Q&A | |
 | 9:45-9:52| *[From Flowchart to Questionnaire: Increasing Access to Justice via Visualization]()* | Bei&nbsp;Wang |
 | 9:52-9:55| Q&A | |
-| 9:55-10:02| *[Visual Salience to Mitigate Gender Bias in Recommendation Letters]()* | Yanan&nbsp;Da |
+| 9:55-10:02| *[Visual Salience to Mitigate Gender Bias in Recommendation Letters]()* | Emily&nbsp;Wall |
 | 10:02-10:05| Q&A | |
 | 10:05-10:12| *[Open Questions about the Visualization of Sociodemographic Data]()* | Florent&nbsp;Cabric |
 | 10:12-10:15| Q&A | |
@@ -100,7 +100,7 @@ Data is an inescapable part of our lives: it guides commerce, government, and te
 | **10:45-12:00** | **Paper Session 2 + Keynote** | | |
 | 10:45-10:52| *[Supporting Mathematical Education with Interactive Visual Proofs]()* | Moritz&nbsp;Weckbecker |
 | 10:52-10:55| Q&A | |
-| 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media]()* | Mahmood&nbsp;Jasim |
+| 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media]()* | Narges&nbsp;Mahyar |
 | 11:02-11:05| Q&A | |
 | 11:05-12:00| Keynote | TBD |
 | 12:00 |  **Closing Remarks** | |
