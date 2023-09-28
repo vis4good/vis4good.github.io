@@ -67,7 +67,7 @@ margin-top: 2em;
 
 ![Header image: visualizations of climate change, US food insecurity, and civilian casualties in the war in Yemen](img/teaser2.png)
 
-- **When:** Sunday 22 October, 2023 /Monday 23 October, 2023
+- **When:** Monday, October 23, 2023: 9:00 AM-12:00 PM AEDT (UTC+11)
 - **Where:** VIS 2023, Melbourne Convention and Exhibition Centre, Melbourne, Australia
 - **Contact Us:** `vis4good-org@googlegroups.com`, [@vis4good](https://twitter.com/vis4good)
 
@@ -79,7 +79,32 @@ We are proud to announce the third **Workshop on Visualization for Social Good**
 Data is an inescapable part of our lives: it guides commerce, government, and technology, and increasingly determines what lives we can (or cannot) live. Data visualization has a special place within this emerging, data-driven, order: as a tool to inform or persuade mass audiences, guide or enlighten the specialist, or give a voice to the unheard. We therefore pose the question: how can visualization, and visualization research, help us build the worlds we want? This theme, building just and equitable futures, is the motivation behind the third edition of our recurring workshop at IEEE VIS: Visualization for Social Good. Our workshop series has been successful not only at showcasing high-quality socially-minded visualization research from diverse voices, but also in starting important conversations around the role of data visualization as a force for good in society at large. We invite you to join our workshop and growing community on Visualization for Social Good, to navigate conversations about the role of data in human dignity and flourishing.
 
 ### Schedule
-Coming Soon!
+
+| Time&nbsp;(AEDT) | Title | Speaker |
+|:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **9:00-10:15** | **Paper Session 1** | | |
+| 9:00-9:15 | **Introduction & Welcome** | | |
+| 9:15-9:22| *[Empowering People with Intellectual and Developmental Disabilities through Cognitively Accessible Visualizations]()* | Keke Wu |
+| 9:22-9:25| Q&A | |
+| 9:25-9:32| *[The Good Life: visualizing the complexity of supported living for people with disability]()* | Georgina&nbsp;Hibberd |
+| 9:32-9:35| Q&A | |
+| 9:35-9:42| *[Beyond English: Centering Multilingualism in Data Visualization]()* | Noëlle&nbsp;Rakotondravony |
+| 9:42-9:45| Q&A | |
+| 9:45-9:52| *[From Flowchart to Questionnaire: Increasing Access to Justice via Visualization]()* | Bei&nbsp;Wang |
+| 9:52-9:55| Q&A | |
+| 9:55-10:02| *[Visual Salience to Mitigate Gender Bias in Recommendation Letters]()* | Yanan&nbsp;Da |
+| 10:02-10:05| Q&A | |
+| 10:05-10:12| *[Open Questions about the Visualization of Sociodemographic Data]()* | Florent&nbsp;Cabric |
+| 10:12-10:15| Q&A | |
+| 10:15-10:45 | **Break** | |
+| **10:45-12:00** | **Paper Session 2 + Keynote** | | |
+| 10:45-10:52| *[Supporting Mathematical Education with Interactive Visual Proofs]()* | Moritz&nbsp;Weckbecker |
+| 10:52-10:55| Q&A | |
+| 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media]()* | Mahmood&nbsp;Jasim |
+| 11:02-11:05| Q&A | |
+| 11:05-12:00| Keynote | TBD |
+| 12:00 |  **Closing Remarks** | |
+ 
 
 ### Call for Papers
 
