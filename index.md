@@ -84,7 +84,7 @@ Data is an inescapable part of our lives: it guides commerce, government, and te
 |:----------------:|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | **9:00-10:15** | **Paper Session 1** | | 
 | 9:00-9:15 | **Introduction & Welcome** | | 
-| 9:15-9:22| *[Empowering People with Intellectual and Developmental Disabilities through Cognitively Accessible Visualizations]()* | Keke Wu |
+| 9:15-9:22| *[Empowering People with Intellectual and Developmental Disabilities through Cognitively Accessible Visualizations](https://vis4good.github.io/papers/2023/wu.pdf)* | Keke Wu |
 | 9:22-9:25| Q&A | |
 | 9:25-9:32| *[The Good Life: visualizing the complexity of supported living for people with disability](https://vis4good.github.io/papers/2023/hibberd.pdf)* | Georgina&nbsp;Hibberd |
 | 9:32-9:35| Q&A | |
