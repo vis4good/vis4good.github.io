@@ -86,21 +86,21 @@ Data is an inescapable part of our lives: it guides commerce, government, and te
 | 9:00-9:15 | **Introduction & Welcome** | | 
 | 9:15-9:22| *[Empowering People with Intellectual and Developmental Disabilities through Cognitively Accessible Visualizations]()* | Keke Wu |
 | 9:22-9:25| Q&A | |
-| 9:25-9:32| *[The Good Life: visualizing the complexity of supported living for people with disability]()* | Georgina&nbsp;Hibberd |
+| 9:25-9:32| *[The Good Life: visualizing the complexity of supported living for people with disability](https://vis4good.github.io/papers/2023/hibberd.pdf)* | Georgina&nbsp;Hibberd |
 | 9:32-9:35| Q&A | |
-| 9:35-9:42| *[Beyond English: Centering Multilingualism in Data Visualization]()* | Noëlle&nbsp;Rakotondravony |
+| 9:35-9:42| *[Beyond English: Centering Multilingualism in Data Visualization](https://vis4good.github.io/papers/2023/rakotondravony.pdf)* | Noëlle&nbsp;Rakotondravony |
 | 9:42-9:45| Q&A | |
-| 9:45-9:52| *[From Flowchart to Questionnaire: Increasing Access to Justice via Visualization]()* | Bei&nbsp;Wang |
+| 9:45-9:52| *[From Flowchart to Questionnaire: Increasing Access to Justice via Visualization](https://vis4good.github.io/papers/2023/zhou.pdf)* | Bei&nbsp;Wang |
 | 9:52-9:55| Q&A | |
-| 9:55-10:02| *[Visual Salience to Mitigate Gender Bias in Recommendation Letters]()* | Emily&nbsp;Wall |
+| 9:55-10:02| *[Visual Salience to Mitigate Gender Bias in Recommendation Letters](https://vis4good.github.io/papers/2023/da.pdf)* | Emily&nbsp;Wall |
 | 10:02-10:05| Q&A | |
-| 10:05-10:12| *[Open Questions about the Visualization of Sociodemographic Data]()* | Florent&nbsp;Cabric |
+| 10:05-10:12| *[Open Questions about the Visualization of Sociodemographic Data](https://vis4good.github.io/papers/2023/cabric.pdf)* | Florent&nbsp;Cabric |
 | 10:12-10:15| Q&A | |
 | 10:15-10:45 | **Break** | |
 | **10:45-12:00** | **Paper Session 2 + Keynote** | | |
-| 10:45-10:52| *[Supporting Mathematical Education with Interactive Visual Proofs]()* | Moritz&nbsp;Weckbecker |
+| 10:45-10:52| *[Supporting Mathematical Education with Interactive Visual Proofs](https://vis4good.github.io/papers/2023/weckbecker.pdf)* | Moritz&nbsp;Weckbecker |
 | 10:52-10:55| Q&A | |
-| 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media]()* | Narges&nbsp;Mahyar |
+| 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media](https://vis4good.github.io/papers/2023/jasim.pdf)* | Narges&nbsp;Mahyar |
 | 11:02-11:05| Q&A | |
 | 11:05-12:00| Keynote | TBD |
 | 12:00 |  **Closing Remarks** | |
