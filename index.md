@@ -102,7 +102,7 @@ Data is an inescapable part of our lives: it guides commerce, government, and te
 | 10:52-10:55| Q&A | |
 | 10:55-11:02| *[Bridging the Divide: Promoting Serendipitous Discovery of Opposing Viewpoints with Visual Analytics in Social Media](https://vis4good.github.io/papers/2023/jasim.pdf)* | Narges&nbsp;Mahyar |
 | 11:02-11:05| Q&A | |
-| 11:05-12:00| Keynote | TBD |
+| 11:05-12:00| Keynote | Sheelagh&nbsp;Carpendale |
 | 12:00 |  **Closing Remarks** | |
  
 
