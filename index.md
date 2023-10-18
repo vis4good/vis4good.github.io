@@ -150,6 +150,28 @@ Papers will be *up to four pages, plus up to one page of references*, in [VGTC t
 
 All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
 
+
+### Keynote 
+
+<figure class="keynote-item">
+ <a href="https://www.cs.sfu.ca/~sheelagh/">
+   <img class="keynote_image" src="img/carpendale.jpg" alt="Sheelagh Carpendale head shot"/>
+ </a>
+   <figcaption class="caption">Sheelagh Carpendale <br /> Computer Scientist, Professor, Artist </figcaption>
+</figure>
+
+
+ 
+**Keynote Title: Tilting at Windmills**
+
+The focus of this talk will be on the struggles of starting our latest project. Recently, in our efforts to take a positive human-centred approach, we decided to take on just a few of the UN's research priorities: 1) how can digital technologies be harnessed to promote social cohesion while ensuring no one is excluded?, 2) how can policy solutions promote the well-being of informal workers and ensure their long-term economic equity?, 3) how can recovery efforts from emergencies help eliminate pre-existing social inequities in order to enhance the resilience of communities? In our words, our intentions are – to create effective tools to track and demonstrate the societal and economic benefits of the local community based arts, to enable evidence-based policy that supports and grows the community arts. In particular Indigenous, youth and LGBTQ communities, are remarkably under-resourced and under-supported, with an unsustainably high level of reliance on volunteers. Lack of economic policies based on real, community-based data undermines the ability to effectively support sustainable community livelihoods and well-being. We will enable pluralistic, community-inclusive, evidence-based economic policies to better support sustainable economic development and diversification. We will leverage data visualization as a co-creative data empowerment process with and for communities to better support community members in collecting, understanding and communicating data for the purpose of evidence-based economic policy development.
+
+**The questions now are – can we really do this? How much do we have to un-learn to discover new ways?**
+
+**BIO**
+
+Sheelagh Carpendale is a Professor and Canada Research Chair at Simon Fraser University. Her many awards include: IEEE Visualization Career Award, NSERC STEACIE (a Canadian Top Science Award); a BAFTA (British Academy of Film & Television Arts – similar to an Oscar in USA), two Best Supervision awards. She is also a Fellow Royal Society of Canada and is in the IEEE Visualization Academy and the ACM CHI Academy.  Her research focuses on information visualization, interaction design, and qualitative empirical research. By studying how people interact with information in work and social settings, she works towards designing more natural, accessible and understandable interactive visual representations of data. She combines information visualization and human-computer interaction with innovative new interaction techniques to better support the everyday practices of people who are viewing, representing, and interacting with information.
+
 ### Program Committee
 
 - **Catherine D'Ignazio**, MIT
