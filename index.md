@@ -157,7 +157,7 @@ All deadlines are at **11:59pm (23:59) AoE Anywhere on Earth (AoE)**.
  <a href="https://www.cs.sfu.ca/~sheelagh/">
    <img class="keynote_image" src="img/carpendale.jpg" alt="Sheelagh Carpendale head shot"/>
  </a>
-   <figcaption class="caption">Sheelagh Carpendale <br /> Computer Scientist,&nbsp;Professor,&nbsp;Artist </figcaption>
+   <figcaption class="caption">Sheelagh Carpendale <br /> Computer&nbsp;Scientist,&nbsp;Professor,&nbsp;Artist </figcaption>
 </figure>
 
 
